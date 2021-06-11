@@ -31,7 +31,3 @@ CD는 지속적인 제공(Continuous Delivery) 또는 지속적인 배포(Contin
 GitHub Actions와 Docker Hub와 같이 외부, 배포하기 직전, 즉 RELEASE버전을 올리는것을 지속적인 제공이라고 보면 될 것 같고,
 
 프로덕션에 직접적으로 영향을 주는, 지속적인 제공으로 만들어진 RELEASE버전을 프로덕션에 올리는 과정을 지속적인 배포라고 보면 될 것 같다.
-
-
-
-사진 출처 : https://www.redhat.com/ko/topics/devops/what-is-ci-cd
