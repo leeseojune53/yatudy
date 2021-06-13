@@ -1,5 +1,7 @@
 # CD(지속적인 제공/배포)
 
+[TOC]
+
 ## CD
 
 CD는 지속적인 제공(Continuous Delivery) 또는 지속적인 배포(Continuous Deployment)를 의미하며 이 두 용어는 상호 교환적으로 사용된다.
