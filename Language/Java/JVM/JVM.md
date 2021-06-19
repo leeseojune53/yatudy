@@ -112,7 +112,9 @@ GC의 관리 대상에 포함된다.
 
 ##### 영구 세대(Permanent Generation)
 
-`생성된 객체들의 정보의 주소값이 저장된 공간이다. Class loader에 의해 load되는 Class, Method 등에 대한 Meta 정보가 저장되는 영역이고, JVM에 의해 사용된다. Reflection을 사용하여 동적으로 클래스가 로딩되는 경우에 사용된다. 내부적으로 Reflection 기능을 자주 사용하는 Spring Framework를 이용할경우 이 영역에 대한 고려가 필요하다.
+생성된 객체들의 정보의 주소값이 저장된 공간이다. Class loader에 의해 load되는 Class, Method 등에 대한 Meta 정보가 저장되는 영역이고, JVM에 의해 사용된다. Reflection을 사용하여 동적으로 클래스가 로딩되는 경우에 사용된다. 내부적으로 Reflection 기능을 자주 사용하는 Spring Framework를 이용할경우 이 영역에 대한 고려가 필요하다.
+
+**JDK 8에서 이 영역은 삭제되었다.**
 
 ##### New/Young 영역
 
