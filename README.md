@@ -102,7 +102,19 @@ Study DevOps &amp; Backend
 
 - [자바 스레드](https://github.com/leeseojune53/yatudy/blob/main/Language/Java/JVM/%EC%9E%90%EB%B0%94%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 
+- [GC 구동원리](https://github.com/leeseojune53/yatudy/blob/main/Language/Java/JVM/GC%EA%B5%AC%EB%8F%99%EC%9B%90%EB%A6%AC.md) --추가
+
   #### Unit Test
+
+### TypeScript
+
+- [01. 타입스크립트](https://github.com/leeseojune53/yatudy/blob/main/Language/TypeScript/01.%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8.md)
+
+- [03. 변수 선언과 기본 타입](https://github.com/leeseojune53/yatudy/blob/main/Language/TypeScript/03.%20%EB%B3%80%EC%88%98%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%20%ED%83%80%EC%9E%85.md)
+
+- [04. 제어문](https://github.com/leeseojune53/yatudy/blob/main/Language/TypeScript/04.%20%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
+
+- [05. 연산자](https://github.com/leeseojune53/yatudy/blob/main/Language/TypeScript/05.%20%EC%97%B0%EC%82%B0%EC%9E%90.md) --추가
 
   
 
