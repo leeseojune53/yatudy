@@ -1,5 +1,7 @@
 # GC(Garbage Collector) 구동원리
 
+[TOC]
+
 ## GC란?
 
 **유효하지 않은 메모리**인 가비지가 발생하게 된다. C언어를 이용하면 free()라는 함수를 이용해서 직접 메모리를 해제해주어야한다. 하지만 Java를 이용해 개발을 하면 개발자가 메모리를 직접 해제해주는 일이 없다. **JVM의 가비지 컬렉터가 불필요한 메모리를 알아서 정리**해주기 때문이다. Java에서 명시적으로 불필요한 데이터를 표현하기 위해서 일반적으로 null을 선언해준다.
@@ -13,6 +15,18 @@ test = new Test();			(2)
 ```
 
 1번에서 생성된 test 객체는 더이상 참조를 하지 않고 사용이 되지 않아서 Garbage가 되었다. Java에서는 이러한 메모리 누수를 방지하기 위해서 GC가 주기적으로 검사하여 메모리를 청소해준다.
+
+## Root Set과 Garbage
+
+![img](https://blog.kakaocdn.net/dn/9ztB2/btqw6nLczwh/FA6H5Kh9wcDHylRMxP3sA0/img.png)
+
+Object의 사용여부는 Root Set과의 관계로 판단하게 되는데 Root Set에서 어떤 식으로든 참조 관계가 있다면 Reachable Object라고 하며 이를 현재 사용하고 있는 Object로 간주하며, 그 밖의 Object는 unreachable Object가 된다.
+
+### Root Set의 Reachable Object 판별법
+
+1. Local variable(지역 변수) Section, Operand Stack에 Object의 참조 정보가 있다면 Reachable Object이다.
+2. Method Area에 로딩된 클래스 중 constant pool에 있는 참조 정보를 토대로 Thread에서 직접 참조하지 않지만 constant pool을 통해 간접으로 참조되고 있는 Object는 Reachable Object이다.
+3. 아직 메모리에 남아 있으며 native Method Area로 넘겨진 Object의 참조가 JNI 형태로 참조 관계가 있는 Object는 Reachable Object이다.
 
 ## Minor GC와 major GC
 
@@ -45,3 +59,12 @@ GC 영역 & 흐름
 
 ![img](https://blog.kakaocdn.net/dn/FOLU3/btqUOBF35cJ/BMKuD1iqfq6R0lAqMlfkC0/img.png)
 
+카드 테이블에는 Old 영역에 있는 객체가 young 영역의 객체를 참조할 때 마다 그에 대한 정보가 표시된다. 카드 테이블이 도입된 이유는 Young 영역에서 Minor GC가 실행될 때 모은 Old 영역에 존재하는 객체들을 검사하여 참조되지 않은 Young 영역의 객체를 식별하는 것이 비효율적이기 때문이다. 그렇기 때문에 Young 영역에서 GC가 진행될 때 카드 테이블만 조회하여 GC의 대상인지 식별할 수 있도록 하고있다.
+
+## GC의 동작 방식
+
+Young 영역과 Old 영역은 서로 다른 메모리 구조로 되어있기 때문에, 세부적인 동작 방식은 다르다. 하지만 기본적으로 가비지 컬렉션이 실해오딘다고 하면 다음의 2가지 공통적인 단계를 따르게 된다.
+
+### 1. Stop The World
+
+Stop The World는 GC를 실행하기 위해 **JVM이 애플리케이션의 실행을 멈추는 작업**이다. GC가 실행될 때는 **GC를 실행하는 쓰레드를 제외한 모든 쓰레드들의 작업이 중단**되고, GC가 완료되면 작업이 재개된다. 당연히 모든 쓰레드들의 작업이 중단되면 애플리케이션이 멈추기 때문에, GC의 성능 개선을 위해 튜닝을 한다고 하면 보통 stop-the-time의 시간을 줄이는 작업을 하는 것이다.
