@@ -88,7 +88,8 @@ Study DevOps &amp; Backend
   
   - [교착상태](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C.md)
   - [병행프로세스](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EB%B3%91%ED%96%89%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
-  - [상호배제](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EC%83%81%ED%98%B8%EB%B0%B0%EC%A0%9C.md) --추가
+  - [상호배제](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EC%83%81%ED%98%B8%EB%B0%B0%EC%A0%9C.md)
+  - [동기화](https://github.com/yatudy/yatudy/blob/main/CS/OS/동기화.md)
 
 ---
 
