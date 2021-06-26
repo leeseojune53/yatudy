@@ -61,6 +61,7 @@ Study DevOps &amp; Backend
 
 ## Architecture
 
+- [SOA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/SOA.md) -- 추가
 - MSA
 - [MSA의 장애전파](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA_%EC%9E%A5%EC%95%A0%EC%A0%84%ED%8C%8C.md)
 - CQRS
@@ -103,7 +104,7 @@ Study DevOps &amp; Backend
 
 - [자바 스레드](https://github.com/leeseojune53/yatudy/blob/main/Language/Java/JVM/%EC%9E%90%EB%B0%94%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 
-- [GC 구동원리](https://github.com/leeseojune53/yatudy/blob/main/Language/Java/JVM/GC%EA%B5%AC%EB%8F%99%EC%9B%90%EB%A6%AC.md) --추가
+- [GC 구동원리](https://github.com/leeseojune53/yatudy/blob/main/Language/Java/JVM/GC%EA%B5%AC%EB%8F%99%EC%9B%90%EB%A6%AC.md)
 
   #### Unit Test
 
