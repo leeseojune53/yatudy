@@ -31,9 +31,22 @@ Study DevOps &amp; Backend
 
     #### Security
 
-    
 
-  
+
+
+---
+
+
+
+## Git
+
+- Git이란?
+
+### Flow
+
+- [GitFlow](https://github.com/yatudy/yatudy/blob/main/Git/Flow/GitFlow.md)
+
+
 
 ---
 
@@ -74,23 +87,21 @@ Study DevOps &amp; Backend
 ## CS(Computer Science)
 
 - [문맥교환](https://github.com/leeseojune53/yatudy/blob/main/CS/%EB%AC%B8%EB%A7%A5%EA%B5%90%ED%99%98.md)
-
 - [프로세스 vs 스레드](https://github.com/leeseojune53/yatudy/blob/main/CS/process%20vs%20thread.md)
-
 - [멀티 프로세스 vs 멀티 스레드](https://github.com/leeseojune53/yatudy/blob/main/CS/%EB%A9%80%ED%8B%B0%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20vs%20%EB%A9%80%ED%8B%B0%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
-
 - [메모리 구조](https://github.com/leeseojune53/yatudy/blob/main/CS/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
-
 - TCP/UDP
 
-  ### Computer Network
+### Computer Network
 
-  ### OS
-  
-  - [교착상태](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C.md)
-  - [병행프로세스](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EB%B3%91%ED%96%89%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
-  - [상호배제](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EC%83%81%ED%98%B8%EB%B0%B0%EC%A0%9C.md)
-  - [동기화](https://github.com/yatudy/yatudy/blob/main/CS/OS/동기화.md)
+### OS
+
+- [교착상태](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C.md)
+- [병행프로세스](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EB%B3%91%ED%96%89%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
+- [상호배제](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EC%83%81%ED%98%B8%EB%B0%B0%EC%A0%9C.md)
+- [동기화](https://github.com/yatudy/yatudy/blob/main/CS/OS/동기화.md)
+
+
 
 ---
 
@@ -101,12 +112,10 @@ Study DevOps &amp; Backend
 ### JAVA
 
 - [JVM](https://github.com/leeseojune53/yatudy/blob/main/Language/Java/JVM/JVM.md)
-
 - [자바 스레드](https://github.com/leeseojune53/yatudy/blob/main/Language/Java/JVM/%EC%9E%90%EB%B0%94%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
-
 - [GC 구동원리](https://github.com/leeseojune53/yatudy/blob/main/Language/Java/JVM/GC%EA%B5%AC%EB%8F%99%EC%9B%90%EB%A6%AC.md)
 
-  #### Unit Test
+### Unit Test
 
 ### TypeScript
 
