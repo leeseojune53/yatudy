@@ -15,6 +15,8 @@ Study DevOps &amp; Backend
 
 - [HTTP](https://github.com/leeseojune53/yatudy/blob/main/Internet/HTTP.md) -- 추가
 
+- [REST API](https://github.com/yatudy/yatudy/blob/main/Internet/REST%20API.md) -- 추가
+
 - 브라우저의 동작 원리
 
 - DNS의 작동 원리
