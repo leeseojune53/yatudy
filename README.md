@@ -13,9 +13,19 @@ Study DevOps &amp; Backend
 
 - [인터넷 동작 원리](https://github.com/leeseojune53/yatudy/blob/main/Internet/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
+- TCP/UDP
+
 - [HTTP](https://github.com/leeseojune53/yatudy/blob/main/Internet/HTTP.md) -- 추가
 
+- API
+
 - [REST API](https://github.com/yatudy/yatudy/blob/main/Internet/REST%20API.md) -- 추가
+
+- SOAP
+
+- REST vs SOAP
+
+- Json vs Xml
 
 - 브라우저의 동작 원리
 
