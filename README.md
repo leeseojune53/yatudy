@@ -27,6 +27,8 @@ Study DevOps &amp; Backend
 
 - Json vs Xml
 
+- ActiveMQ
+
 - 브라우저의 동작 원리
 
 - DNS의 작동 원리
@@ -44,6 +46,22 @@ Study DevOps &amp; Backend
   - Session vs JWT
 
     #### Security
+
+
+
+---
+
+
+
+## 소프트웨어 개발방법론
+
+- 구조적 방법론
+- 정보공학 개발 방법론
+- 객체지향 개발 방법론
+- 컴포넌트 기반(CBD) 개발 방법론
+- 애자일 방법론
+- 폭포수(waterfall) 방법론
+- 프로토타입 개발 방법론
 
 
 
@@ -93,8 +111,11 @@ Study DevOps &amp; Backend
 
 ## Architecture
 
+- Monolithic(모놀리식)
 - [SOA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/SOA.md) -- 추가
+- Monolithic vs SOA
 - MSA
+- MSA vs SOA
 - [MSA의 장애전파](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA_%EC%9E%A5%EC%95%A0%EC%A0%84%ED%8C%8C.md)
 - CQRS
 - Serverless
