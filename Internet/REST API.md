@@ -1,4 +1,4 @@
-# REST API(RESTful API)
+# REST API(Representation State Transfer)
 
 ## REST API 개요
 
@@ -16,6 +16,13 @@ API의 또 다른 이점은 리소스 검색 방법 또는 리소스의 출처�
 
 ## REST API란
 
+### - 정의
+
+- 자원의 이름(자원의 표현)으로 구분하여 해단 자원의 상태(정보)를 주고 받는 모든 것을 의미
+- 
+
+
+
 REST는 프로토콜이나 표준이 아닌 아키텍처 원칙 세트이다. API 개발자는 REST를 다양한 방식으로 구현할 수 있다.
 
 RESTful API를 통해 요청이 수행될 때 RESTful API는 리소스 상태에 대한 표현을 요청자에게 전송한다. 이 정보 또는 표현은 HTTP: JSON, HTML, XLT 또는 일반 텍스트를 통해 몇 가지 형식으로 전송된다.
@@ -32,3 +39,4 @@ API가 RESTful로 간주되려면 아래의 기준을 따라야한다.
 REST API는 따라야 할 기준이 잇지만, 속도를 저하시키고 더 무겁게 마나드는 XML 메시징, 빌트인 보안 및 트래잭션 컴플라이언스처럼 특정 요구 사항이 있는 SOAP(Simple Object Access Protocol)등의 규정된 프로토콜보다 사용하기 쉬운 것으로 간주된다.
 
 이것과 대조적으로 REST는 필요에 따라 구현할 수 있는 일련의 **지침**으로, 이를 통해 REST API는 더 빨라지고, 경량화되었다.
+
