@@ -15,6 +15,8 @@ Study DevOps &amp; Backend
 
 - TCP/UDP
 
+- URI vs URL vs URN
+
 - [HTTP](https://github.com/leeseojune53/yatudy/blob/main/Internet/HTTP.md) -- 추가
 
 - API
@@ -199,7 +201,9 @@ Study DevOps &amp; Backend
 
 ## Spring Boot
 
+### Library
 
+- [Jackson](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Jackson.md)
 
 
 
