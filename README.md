@@ -115,9 +115,10 @@ Study DevOps &amp; Backend
 
 - [Monolithic(모놀리식)](https://github.com/yatudy/yatudy/blob/main/Architecture/Monolithic.md)
 - [SOA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/SOA.md)
-- [Monolithic vs SOA](https://github.com/yatudy/yatudy/blob/main/Architecture/Monolithic%20vs%20SOA.md)
-- MSA
+- [SOA vs Monolithic](https://github.com/yatudy/yatudy/blob/main/Architecture/Monolithic%20vs%20SOA.md)
+- [MSA](https://github.com/yatudy/yatudy/blob/main/Architecture/MSA.md)
 - MSA vs SOA
+- MSA vs Monolithic
 - [MSA의 장애전파](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA_%EC%9E%A5%EC%95%A0%EC%A0%84%ED%8C%8C.md)
 - CQRS
 - Serverless
