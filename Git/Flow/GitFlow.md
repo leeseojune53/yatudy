@@ -21,7 +21,7 @@ Vincent Driesen은 관련하여 스크립트로 명령을 구성해놨으며, �
 
 - 브랜치 나오는 곳 : develop
 - 브런치가 들어가는 곳 : develop
-- 이름 지정 : master, develop, release-*, hotfix-*를 제외한 어떤것이든 가능. 새로운 기능을 추가하는 브런치이다. feature브런치는 origin에는 반영하지 않고, 개발자의 repository에만 존재하도록 한다.
+- 이름 지정 : main, develop, release-*, hotfix-*를 제외한 어떤것이든 가능. 새로운 기능을 추가하는 브런치이다. feature브런치는 origin에는 반영하지 않고, 개발자의 repository에만 존재하도록 한다.
 
 ## Release 브랜치
 
@@ -32,8 +32,8 @@ Vincent Driesen은 관련하여 스크립트로 명령을 구성해놨으며, �
 ## Hotfix
 
 - 브랜치 나오는 곳 : main
-- 브랜치 들어가는 곳 : develop, master
-- 이름 지정 : hotfix-* Production에서 발생한 버그들은 전부 hotfix브랜치로, 수정이 끝나면 develop, main브랜치에 반영하고, master에 tag를 추가해준다. 만약 release 브랜치가 존재한다면, release 브랜치에 hotfix 브랜치를 머지하여 릴리즈 될 때 반영이 될 수 있도록 한다.
+- 브랜치 들어가는 곳 : develop, main
+- 이름 지정 : hotfix-* Production에서 발생한 버그들은 전부 hotfix브랜치로, 수정이 끝나면 develop, main브랜치에 반영하고, main에 tag를 추가해준다. 만약 release 브랜치가 존재한다면, release 브랜치에 hotfix 브랜치를 머지하여 릴리즈 될 때 반영이 될 수 있도록 한다.
 
 ## 장점
 
