@@ -27,9 +27,9 @@ Study DevOps &amp; Backend
 
 - REST vs SOAP
 
-- Json vs Xml
+- gRPC
 
-- ActiveMQ
+- Json vs Xml
 
 - 브라우저의 동작 원리
 
@@ -39,15 +39,21 @@ Study DevOps &amp; Backend
 
 - 호스팅
 
-- JWT
-
   ### Web
 
-  - CORS
+  - JWT
 
-  - Session vs JWT
+  - [Session vs JWT](https://github.com/yatudy/yatudy/blob/main/Internet/Web/Session%20vs%20JWT.md)
 
     #### Security
+    
+    - CORS
+
+  ### Message Queue
+
+  - ActiveMQ
+  - Kafka
+  - RabbitMQ
 
 
 
@@ -79,7 +85,7 @@ Study DevOps &amp; Backend
 ### Flow
 
 - [Git Flow](https://github.com/yatudy/yatudy/blob/main/Git/Flow/GitFlow.md)
-- GitHub Flow
+- [GitHub Flow](https://github.com/yatudy/yatudy/blob/main/Git/Flow/GitHubFlow.md)
 - GitLab Flow
 
 
@@ -183,6 +189,8 @@ Study DevOps &amp; Backend
 
 ### SQL
 
+- SQL
+
 - MySQL
 - Oracle
 - PostgreSQL
@@ -190,6 +198,8 @@ Study DevOps &amp; Backend
 ---
 
 ### NoSQL
+
+- NoSQL
 
 - Redis
 - MongoDB
@@ -205,6 +215,7 @@ Study DevOps &amp; Backend
 ### Library
 
 - [Jackson](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Jackson.md)
+- [Lombok](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Lombok.md)
 
 
 
