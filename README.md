@@ -185,9 +185,15 @@ Study DevOps &amp; Backend
 
 ## Database
 
-- ACID
-- 트랜잭션
+- [ACID](https://github.com/yatudy/yatudy/blob/main/Database/ACID.md) --추가
+- [트랜잭션](https://github.com/yatudy/yatudy/blob/main/Database/Transaction.md)
 - N+1 문제
+
+### SQL
+
+### NoSQL
+
+
 
 ### SQL
 
