@@ -19,6 +19,8 @@ Study DevOps &amp; Backend
 
 - [HTTP](https://github.com/leeseojune53/yatudy/blob/main/Internet/HTTP.md) -- 추가
 
+- [gRPC](https://github.com/yatudy/yatudy/blob/main/Internet/gRPC.md)
+
 - API
 
 - [REST API](https://github.com/yatudy/yatudy/blob/main/Internet/REST%20API.md) -- 추가
@@ -28,6 +30,8 @@ Study DevOps &amp; Backend
 - REST vs SOAP
 
 - gRPC
+
+- Proto3
 
 - Json vs Xml
 
@@ -118,6 +122,15 @@ Study DevOps &amp; Backend
 ---
 
 
+
+## AWS
+
+- [SNS](https://github.com/yatudy/yatudy/blob/main/AWS/SNS.md)
+- [SQS](https://github.com/yatudy/yatudy/blob/main/AWS/SQS.md)
+
+
+
+---
 
 ## Architecture
 
@@ -240,3 +253,18 @@ Study DevOps &amp; Backend
 
 
 ---
+
+
+
+## Books
+
+
+
+---
+
+
+
+### Lectures
+
+- [[우아콘2020] 배달의민족 마이크로서비스 여행기](https://github.com/yatudy/yatudy/blob/main/Lectures/%5B%EC%9A%B0%EC%95%84%EC%BD%982020%5D%20%EB%B0%B0%EB%8B%AC%EC%9D%98%EB%AF%BC%EC%A1%B1%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%97%AC%ED%96%89%EA%B8%B0.md)
+
