@@ -127,6 +127,7 @@ Study DevOps &amp; Backend
 
 - [SNS](https://github.com/yatudy/yatudy/blob/main/AWS/SNS.md)
 - [SQS](https://github.com/yatudy/yatudy/blob/main/AWS/SQS.md)
+- [SNS vs SQS](https://github.com/yatudy/yatudy/blob/main/AWS/SNS%20vs%20SQS.md)
 
 
 
