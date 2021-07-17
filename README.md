@@ -52,9 +52,10 @@ Study DevOps &amp; Backend
     #### Security
     
     - CORS
-
+    - CSRF
+  
   ### Message Queue
-
+  
   - [Message Queue](https://github.com/yatudy/yatudy/blob/main/Internet/Message%20Queue/Message%20Queue.md)
   
   - ActiveMQ
@@ -203,10 +204,6 @@ Study DevOps &amp; Backend
 - [트랜잭션](https://github.com/yatudy/yatudy/blob/main/Database/Transaction.md)
 - N+1 문제
 
-### SQL
-
-### NoSQL
-
 
 
 ### SQL
@@ -239,6 +236,7 @@ Study DevOps &amp; Backend
 - [Jackson](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Jackson.md)
 - [Lombok](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Lombok.md)
 - [Security](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Security.md)
+- [JPA](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/JPA.md)
 
 
 
