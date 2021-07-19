@@ -51,7 +51,7 @@ Study DevOps &amp; Backend
 
     #### Security
     
-    - CORS
+    - [CORS](https://github.com/yatudy/yatudy/blob/main/Internet/Web/Security/CORS.md)
     - CSRF
   
   ### Message Queue
