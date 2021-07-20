@@ -1,6 +1,8 @@
 # yatudy
 Study DevOps &amp; Backend
 
+부족한 부분 또는 오타 발견시 sung07288346@gmail.com으로 연락해주세요👋👋
+
 ---
 
 [TOC]
@@ -28,8 +30,6 @@ Study DevOps &amp; Backend
 - SOAP
 
 - REST vs SOAP
-
-- gRPC
 
 - Proto3
 
@@ -129,6 +129,10 @@ Study DevOps &amp; Backend
 - [SNS](https://github.com/yatudy/yatudy/blob/main/AWS/SNS.md)
 - [SQS](https://github.com/yatudy/yatudy/blob/main/AWS/SQS.md)
 - [SNS vs SQS](https://github.com/yatudy/yatudy/blob/main/AWS/SNS%20vs%20SQS.md)
+- [CloudFront](https://github.com/yatudy/yatudy/blob/main/AWS/CloudFront.md)
+- IaaS
+- PaaS
+- SaaS
 
 
 
@@ -144,7 +148,8 @@ Study DevOps &amp; Backend
 - MSA vs Monolithic
 - [MSA의 장애전파](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA_%EC%9E%A5%EC%95%A0%EC%A0%84%ED%8C%8C.md)
 - CQRS
-- Serverless
+- [ServerLess](https://github.com/yatudy/yatudy/blob/main/Architecture/ServerLess.md)
+- Event-driven architecture
 
 
 
