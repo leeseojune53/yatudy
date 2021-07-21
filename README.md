@@ -130,9 +130,10 @@ Study DevOps &amp; Backend
 - [SQS](https://github.com/yatudy/yatudy/blob/main/AWS/SQS.md)
 - [SNS vs SQS](https://github.com/yatudy/yatudy/blob/main/AWS/SNS%20vs%20SQS.md)
 - [CloudFront](https://github.com/yatudy/yatudy/blob/main/AWS/CloudFront.md)
-- IaaS
-- PaaS
-- SaaS
+- [클라우드 서비스 모델](https://github.com/yatudy/yatudy/blob/main/AWS/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%AA%A8%EB%8D%B8.md)
+- [IaaS](https://github.com/yatudy/yatudy/blob/main/AWS/IaaS.md)
+- [PaaS](https://github.com/yatudy/yatudy/blob/main/AWS/PaaS.md)
+- [SaaS](https://github.com/yatudy/yatudy/blob/main/AWS/SaaS.md)
 
 
 
