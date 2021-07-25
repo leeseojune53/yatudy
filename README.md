@@ -196,7 +196,8 @@ Study DevOps &amp; Backend
 - [01. 타입스크립트](https://github.com/leeseojune53/yatudy/blob/main/Language/TypeScript/01.%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8.md)
 - [03. 변수 선언과 기본 타입](https://github.com/leeseojune53/yatudy/blob/main/Language/TypeScript/03.%20%EB%B3%80%EC%88%98%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%20%ED%83%80%EC%9E%85.md)
 - [04. 제어문](https://github.com/leeseojune53/yatudy/blob/main/Language/TypeScript/04.%20%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
-- [05. 연산자](https://github.com/leeseojune53/yatudy/blob/main/Language/TypeScript/05.%20%EC%97%B0%EC%82%B0%EC%9E%90.md) --추가
+- [05. 연산자](https://github.com/leeseojune53/yatudy/blob/main/Language/TypeScript/05.%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+- 06. 함수
 
 
 
