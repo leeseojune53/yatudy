@@ -134,6 +134,7 @@ Study DevOps &amp; Backend
 - [IaaS](https://github.com/yatudy/yatudy/blob/main/AWS/IaaS.md)
 - [PaaS](https://github.com/yatudy/yatudy/blob/main/AWS/PaaS.md)
 - [SaaS](https://github.com/yatudy/yatudy/blob/main/AWS/SaaS.md)
+- [**EC2 보안 취약점**](https://github.com/leeseojune53/yatudy/blob/main/AWS/EC2%20%EB%B3%B4%EC%95%88%20%EC%B7%A8%EC%95%BD%EC%A0%90.md)
 
 
 
@@ -239,12 +240,21 @@ Study DevOps &amp; Backend
 
 ## Spring Boot
 
+- [스프링 3대 요소](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/%EC%8A%A4%ED%94%84%EB%A7%81%203%EB%8C%80%20%EC%9A%94%EC%86%8C.md)
+
 ### Library
 
 - [Jackson](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Jackson.md)
+
 - [Lombok](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Lombok.md)
+
 - [Security](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Security.md)
+
 - [JPA](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/JPA.md)
+
+  #### cloud
+
+  - [OpenFeign](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Library/cloud/OpenFeign.md)
 
 
 
@@ -257,10 +267,6 @@ Study DevOps &amp; Backend
 ### Library
 
 - [**dotenv** vs **nestjs_env**](https://github.com/yatudy/yatudy/blob/main/NestJS/Library/dotenv%20vs%20nestjs_env.md)
-
-  #### cloud
-
-  - [OpenFeign](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Library/cloud/OpenFeign.md)
 
 
 
