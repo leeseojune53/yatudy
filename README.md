@@ -140,6 +140,10 @@ Study DevOps &amp; Backend
 - [EC2 보안 취약점](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/EC2%20%EB%B3%B4%EC%95%88%20%EC%B7%A8%EC%95%BD%EC%A0%90.md)
 - [VPC(Virtual Private Cloud)와 실제 적용 사례](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/VPC(Virtual%20Private%20Cloud)%EC%99%80%20%EC%8B%A4%EC%A0%9C%20%EC%A0%81%EC%9A%A9%20%EC%82%AC%EB%A1%80.md)
 
+### Summit
+
+- [클라우드 아키텍처 진화하기](https://github.com/leeseojune53/yatudy/blob/main/AWS/Summit/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EC%A7%84%ED%99%94%ED%95%98%EA%B8%B0.md)
+
 ---
 
 ## Architecture
