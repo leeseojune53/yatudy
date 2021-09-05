@@ -134,9 +134,11 @@ Study DevOps &amp; Backend
 - [IaaS](https://github.com/yatudy/yatudy/blob/main/AWS/IaaS.md)
 - [PaaS](https://github.com/yatudy/yatudy/blob/main/AWS/PaaS.md)
 - [SaaS](https://github.com/yatudy/yatudy/blob/main/AWS/SaaS.md)
-- [**EC2 보안 취약점**](https://github.com/leeseojune53/yatudy/blob/main/AWS/EC2%20%EB%B3%B4%EC%95%88%20%EC%B7%A8%EC%95%BD%EC%A0%90.md)
 
+### Tips
 
+- [EC2 보안 취약점](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/EC2%20%EB%B3%B4%EC%95%88%20%EC%B7%A8%EC%95%BD%EC%A0%90.md)
+- [VPC(Virtual Private Cloud)와 실제 적용 사례](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/VPC(Virtual%20Private%20Cloud)%EC%99%80%20%EC%8B%A4%EC%A0%9C%20%EC%A0%81%EC%9A%A9%20%EC%82%AC%EB%A1%80.md)
 
 ---
 
@@ -255,6 +257,10 @@ Study DevOps &amp; Backend
   #### cloud
 
   - [OpenFeign](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Library/cloud/OpenFeign.md)
+
+### Tips
+
+- [Spring Boot에서 Request Parameter를 객체로 받는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20Request%20Parameter%EB%A5%BC%20%EA%B0%9D%EC%B2%B4%EB%A1%9C%20%EB%B0%9B%EB%8A%94%20%EB%B2%95.md)
 
 
 
