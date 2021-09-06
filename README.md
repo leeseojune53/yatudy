@@ -1,7 +1,7 @@
 # yatudy
 Study DevOps &amp; Backend
 
-부족한 부분 또는 오타 발견시 sung07288346@gmail.com으로 연락해주세요👋👋
+부족한 부분 또는 오타 발견시 언제든 PR날려주세요. 👋👋
 
 ---
 
