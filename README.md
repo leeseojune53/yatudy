@@ -242,7 +242,13 @@ Study DevOps &amp; Backend
 
 ---
 
+## DevOps
 
+- [데브옵스란 무엇인가](https://github.com/leeseojune53/yatudy/blob/main/DevOps/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
+
+
+
+---
 
 ## Spring Boot
 
@@ -265,6 +271,7 @@ Study DevOps &amp; Backend
 ### Tips
 
 - [Spring Boot에서 Request Parameter를 객체로 받는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20Request%20Parameter%EB%A5%BC%20%EA%B0%9D%EC%B2%B4%EB%A1%9C%20%EB%B0%9B%EB%8A%94%20%EB%B2%95.md)
+- [@Query에서 FK로 객체를 찾는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Query%EC%97%90%EC%84%9C%20FK%EB%A1%9C%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EC%B0%BE%EB%8A%94%20%EB%B2%95.md)
 
 
 
