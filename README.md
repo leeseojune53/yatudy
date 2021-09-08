@@ -139,6 +139,8 @@ Study DevOps &amp; Backend
 
 - [EC2 보안 취약점](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/EC2%20%EB%B3%B4%EC%95%88%20%EC%B7%A8%EC%95%BD%EC%A0%90.md)
 - [VPC(Virtual Private Cloud)와 실제 적용 사례](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/VPC(Virtual%20Private%20Cloud)%EC%99%80%20%EC%8B%A4%EC%A0%9C%20%EC%A0%81%EC%9A%A9%20%EC%82%AC%EB%A1%80.md)
+- [S3 퍼블릭 액세스](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/S3%20%ED%8D%BC%EB%B8%94%EB%A6%AD%20%EC%95%A1%EC%84%B8%EC%8A%A4.md)
+- [외부로부터 안전한 EC2, RDS를 구축하기](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/%EC%99%B8%EB%B6%80%EB%A1%9C%EB%B6%80%ED%84%B0%20%EC%95%88%EC%A0%84%ED%95%9C%20EC2%2C%20RDS%EB%A5%BC%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
 
 ### Summit
 
@@ -158,6 +160,7 @@ Study DevOps &amp; Backend
 - CQRS
 - [ServerLess](https://github.com/yatudy/yatudy/blob/main/Architecture/ServerLess.md)
 - Event-driven architecture
+- [Coupling이란](https://github.com/leeseojune53/yatudy/blob/main/Architecture/Coupling%EC%9D%B4%EB%9E%80.md)
 
 
 
