@@ -275,6 +275,8 @@ Study DevOps &amp; Backend
 
 - [Spring Boot에서 Request Parameter를 객체로 받는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20Request%20Parameter%EB%A5%BC%20%EA%B0%9D%EC%B2%B4%EB%A1%9C%20%EB%B0%9B%EB%8A%94%20%EB%B2%95.md)
 - [@Query에서 FK로 객체를 찾는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Query%EC%97%90%EC%84%9C%20FK%EB%A1%9C%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EC%B0%BE%EB%8A%94%20%EB%B2%95.md)
+- [상속에서 @Builder 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%83%81%EC%86%8D%EC%97%90%EC%84%9C%20%40Builder%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [Spring Boot에서 UUID 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20UUID%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
 
 
