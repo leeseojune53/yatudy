@@ -277,6 +277,7 @@ Study DevOps &amp; Backend
 - [@Query에서 FK로 객체를 찾는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Query%EC%97%90%EC%84%9C%20FK%EB%A1%9C%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EC%B0%BE%EB%8A%94%20%EB%B2%95.md)
 - [상속에서 @Builder 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%83%81%EC%86%8D%EC%97%90%EC%84%9C%20%40Builder%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [Spring Boot에서 UUID 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20UUID%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [요청을 보냈을 때 Filter에서 발생한 Exception 때문에 CORS가 뜰 때 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%9A%94%EC%B2%AD%EC%9D%84%20%EB%B3%B4%EB%83%88%EC%9D%84%20%EB%95%8C%20Filter%EC%97%90%EC%84%9C%20%EB%B0%9C%EC%83%9D%ED%95%9C%20Exception%20%EB%95%8C%EB%AC%B8%EC%97%90%20CORS%EA%B0%80%20%EB%9C%B0%20%EB%95%8C%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 
 
 
