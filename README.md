@@ -93,7 +93,6 @@ Study DevOps &amp; Backend
 
 - [Git Flow](https://github.com/yatudy/yatudy/blob/main/Git/Flow/GitFlow.md)
 - [GitHub Flow](https://github.com/yatudy/yatudy/blob/main/Git/Flow/GitHubFlow.md)
-- GitLab Flow
 
 
 
@@ -146,7 +145,11 @@ Study DevOps &amp; Backend
 
 - [클라우드 아키텍처 진화하기](https://github.com/leeseojune53/yatudy/blob/main/AWS/Summit/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EC%A7%84%ED%99%94%ED%95%98%EA%B8%B0.md)
 
+
+
 ---
+
+
 
 ## Architecture
 
@@ -161,6 +164,16 @@ Study DevOps &amp; Backend
 - [ServerLess](https://github.com/yatudy/yatudy/blob/main/Architecture/ServerLess.md)
 - Event-driven architecture
 - [Coupling이란](https://github.com/leeseojune53/yatudy/blob/main/Architecture/Coupling%EC%9D%B4%EB%9E%80.md)
+
+
+
+---
+
+
+
+## 객체지향프로그래밍(OOP)
+
+- [관심사의 분리](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EA%B4%80%EC%8B%AC%EC%82%AC%EC%9D%98%20%EB%B6%84%EB%A6%AC.md)
 
 
 
@@ -227,12 +240,15 @@ Study DevOps &amp; Backend
 ### SQL
 
 - SQL
-
 - MySQL
 - Oracle
 - PostgreSQL
 
+
+
 ---
+
+
 
 ### NoSQL
 
@@ -245,6 +261,8 @@ Study DevOps &amp; Backend
 
 ---
 
+
+
 ## DevOps
 
 - [데브옵스란 무엇인가](https://github.com/leeseojune53/yatudy/blob/main/DevOps/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
@@ -253,9 +271,16 @@ Study DevOps &amp; Backend
 
 ---
 
+
+
 ## Spring Boot
 
 - [스프링 3대 요소](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/%EC%8A%A4%ED%94%84%EB%A7%81%203%EB%8C%80%20%EC%9A%94%EC%86%8C.md)
+
+### Design Pattern
+
+- [템플릿 메소드 패턴](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Design%20Pattern/%ED%85%9C%ED%94%8C%EB%A6%BF%20%EB%A9%94%EC%86%8C%EB%93%9C%20%ED%8C%A8%ED%84%B4.md)
+- [팩토리 메소드 패턴](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Design%20Pattern/%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C%20%ED%8C%A8%ED%84%B4.md)
 
 ### Library
 
@@ -278,6 +303,7 @@ Study DevOps &amp; Backend
 - [상속에서 @Builder 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%83%81%EC%86%8D%EC%97%90%EC%84%9C%20%40Builder%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [Spring Boot에서 UUID 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20UUID%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [요청을 보냈을 때 Filter에서 발생한 Exception 때문에 CORS가 뜰 때 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%9A%94%EC%B2%AD%EC%9D%84%20%EB%B3%B4%EB%83%88%EC%9D%84%20%EB%95%8C%20Filter%EC%97%90%EC%84%9C%20%EB%B0%9C%EC%83%9D%ED%95%9C%20Exception%20%EB%95%8C%EB%AC%B8%EC%97%90%20CORS%EA%B0%80%20%EB%9C%B0%20%EB%95%8C%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
+- [DB에서 값을 가지고 올 때 "loaded object was of wrong class class"가 발생할 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/DB%EC%97%90%EC%84%9C%20%EA%B0%92%EC%9D%84%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%98%AC%20%EB%95%8C%20loaded%20object%20was%20of%20wrong%20class%20class%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%95%A0%20%EB%95%8C.md)
 
 
 
