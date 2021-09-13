@@ -70,13 +70,18 @@ Study DevOps &amp; Backend
 
 ## 소프트웨어 개발방법론
 
-- 구조적 방법론
-- 정보공학 개발 방법론
-- 객체지향 개발 방법론
+- [폭포수(waterfall) 모형](https://github.com/leeseojune53/yatudy/blob/main/Development%20Process/%ED%8F%AD%ED%8F%AC%EC%88%98%20%EB%AA%A8%ED%98%95.md)
+- [나선형 모형](https://github.com/leeseojune53/yatudy/blob/main/Development%20Process/%EB%82%98%EC%84%A0%ED%98%95%20%EB%AA%A8%ED%98%95.md)
+- [프로토타입 모형](https://github.com/leeseojune53/yatudy/blob/main/Development%20Process/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%20%EB%AA%A8%ED%98%95.md)
+- [애자일 모형](https://github.com/leeseojune53/yatudy/blob/main/Development%20Process/%EC%95%A0%EC%9E%90%EC%9D%BC%20%EB%AA%A8%ED%98%95.md)
 - 컴포넌트 기반(CBD) 개발 방법론
-- 애자일 방법론
-- 폭포수(waterfall) 방법론
-- 프로토타입 개발 방법론
+- 구조적 방법론
+- 객체지향 개발 방법론
+- 정보공학 개발 방법론
+
+#### 비교
+
+- [폭포수 모형과 애자일 모형의 차이](https://github.com/leeseojune53/yatudy/blob/main/Development%20Process/%ED%8F%AD%ED%8F%AC%EC%88%98%20%EB%AA%A8%ED%98%95%EA%B3%BC%20%EC%95%A0%EC%9E%90%EC%9D%BC%20%EB%AA%A8%ED%98%95%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 
 
 
@@ -174,6 +179,7 @@ Study DevOps &amp; Backend
 ## 객체지향프로그래밍(OOP)
 
 - [관심사의 분리](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EA%B4%80%EC%8B%AC%EC%82%AC%EC%9D%98%20%EB%B6%84%EB%A6%AC.md)
+- [객체지향 5대 원칙](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%205%EB%8C%80%20%EC%9B%90%EC%B9%99.md)
 
 
 
