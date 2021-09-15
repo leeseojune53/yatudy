@@ -10,6 +10,8 @@ build.gradle 에 ```testImplementation 'it.ozimov:embedded-redis:0.7.3'```를 �
 
 embedded-redis 0.7.3 버전을 뜯어보면 Slf4j가 추가되어있다.
 
+Spring Boot 내중 Slf4j과 충돌해서 발생한 것이다.
+
 ### ♻ 해결법
 
 embedded-redis를 다운그레이드하는 것이다.
