@@ -79,6 +79,11 @@ Study DevOps &amp; Backend
 - 객체지향 개발 방법론
 - 정보공학 개발 방법론
 
+#### 애자일 모형
+
+- [애자일 선언문](https://github.com/leeseojune53/yatudy/blob/main/Development%20Process/%EC%95%A0%EC%9E%90%EC%9D%BC%20%EB%AA%A8%ED%98%95/%EC%95%A0%EC%9E%90%EC%9D%BC%20%EC%84%A0%EC%96%B8%EB%AC%B8.md)
+- [스크럼 기법](https://github.com/leeseojune53/yatudy/blob/main/Development%20Process/%EC%95%A0%EC%9E%90%EC%9D%BC%20%EB%AA%A8%ED%98%95/%EC%8A%A4%ED%81%AC%EB%9F%BC%20%EA%B8%B0%EB%B2%95.md)
+
 #### 비교
 
 - [폭포수 모형과 애자일 모형의 차이](https://github.com/leeseojune53/yatudy/blob/main/Development%20Process/%ED%8F%AD%ED%8F%AC%EC%88%98%20%EB%AA%A8%ED%98%95%EA%B3%BC%20%EC%95%A0%EC%9E%90%EC%9D%BC%20%EB%AA%A8%ED%98%95%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
