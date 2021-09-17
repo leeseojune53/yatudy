@@ -318,6 +318,8 @@ Study DevOps &amp; Backend
 - [테스트 시 Spring Security 인증할 수 있는 어노테이션](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%8B%9C%20Spring%20Security%20%EC%9D%B8%EC%A6%9D%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.md)
 - [Embedded Redis Slf4j 오류 해결](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Embedded%20Redis%20Slf4j%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
 - [Embedded Redis 사용 시 에러](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Embedded%20Redis%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%97%90%EB%9F%AC.md)
+- [테스트를 제외하고 Spring Build하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%A0%9C%EC%99%B8%ED%95%98%EA%B3%A0%20Spring%20Build%ED%95%98%EB%8A%94%20%EB%B2%95.md)
+- [Querydsl 사용 시 Cannot find symbol 오류 발생](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Querydsl%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20Cannot%20find%20symbol%20%EC%98%A4%EB%A5%98%20%EB%B0%9C%EC%83%9D.md)
 
 
 
