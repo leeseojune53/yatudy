@@ -1,8 +1,14 @@
-# JPA(Java Persistance API)
+# JPA N+1 해결법
 
-[TOC]
+### 🐛 문제상황
 
-##  N+1 문제 해결방법
+연관 관계에서 발생하는 이슈로 연관 관계가 설정된 엔티티를 조회할 경우에 조회된 데이터 갯수만큼 연관관계의 조회 쿼리가 추가로 발생하여 데이터를 읽어오게됌.
+
+### 🏴‍☠️ 원인
+
+연관 관계에서 데이터를 가지고 올 때 join을 사용하지 않고, 각 데이터 별로 `where ~id = ?` 와 같이 여러 번 반복해서 가지고 오기 때문.
+
+### ♻ 해결법
 
 ### join fetch
 
@@ -21,7 +27,7 @@ List<Academy> findAllJoinFetch();
 
 @EntityGraph의 attributePaths에 쿼리 수행 시 바로 가져올 필드명을 지정하면 Lazy가 아닌 Eager 조회, 즉시 조회로 가져오게 된다.
 
-### 차이점
+### 😵 차이점
 
 **join fetch**
 
