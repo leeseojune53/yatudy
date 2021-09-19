@@ -185,6 +185,7 @@ Study DevOps &amp; Backend
 
 - [관심사의 분리](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EA%B4%80%EC%8B%AC%EC%82%AC%EC%9D%98%20%EB%B6%84%EB%A6%AC.md)
 - [객체지향 5대 원칙](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%205%EB%8C%80%20%EC%9B%90%EC%B9%99.md)
+- [높은 응집도와 낮은 결합도](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EB%86%92%EC%9D%80%20%EC%9D%91%EC%A7%91%EB%8F%84%EC%99%80%20%EB%82%AE%EC%9D%80%20%EA%B2%B0%ED%95%A9%EB%8F%84.md)
 
 
 
@@ -287,11 +288,14 @@ Study DevOps &amp; Backend
 ## Spring Boot
 
 - [스프링 3대 요소](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/%EC%8A%A4%ED%94%84%EB%A7%81%203%EB%8C%80%20%EC%9A%94%EC%86%8C.md)
+- [@Bean vs @Component](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/%40Bean%20vs%20%40Component.md)
+- [AOP @Around 어노테이션](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/AOP%20%40Around%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.md)
 
 ### Design Pattern
 
 - [템플릿 메소드 패턴](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Design%20Pattern/%ED%85%9C%ED%94%8C%EB%A6%BF%20%EB%A9%94%EC%86%8C%EB%93%9C%20%ED%8C%A8%ED%84%B4.md)
 - [팩토리 메소드 패턴](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Design%20Pattern/%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C%20%ED%8C%A8%ED%84%B4.md)
+- [전략 패턴](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Design%20Pattern/%EC%A0%84%EB%9E%B5%20%ED%8C%A8%ED%84%B4.md)
 
 ### Library
 
@@ -322,6 +326,7 @@ Study DevOps &amp; Backend
 - [JPA N+1 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/JPA%20N%2B1%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 - [Dispatcher Servlet 이전에 발생한 예외 처리](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Dispatcher%20Servlet%20%EC%9D%B4%EC%A0%84%EC%97%90%20%EB%B0%9C%EC%83%9D%ED%95%9C%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.md)
 - [연관관계 편의 메소드](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%ED%8E%B8%EC%9D%98%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
+- [동시성 문제를 제어하는 방법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EB%8F%99%EC%8B%9C%EC%84%B1%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
 
 
