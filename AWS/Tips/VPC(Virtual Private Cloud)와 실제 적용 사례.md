@@ -20,5 +20,5 @@
 
 외부의 요청이 Route53을 통해서 정적 데이터 접근은 AWS의 CDN서비스인 Cloud Front로 연결되어 S3오브젝트에 접근하게되고, 동적 데이터(API)는 아래와 같이 Load Balancer(ALB)를 통해서 EC2 내부로 접근하게 된다.
 
-![OPGG_VPC.png](https://github.com/leeseojune53/yatudy/blob/main/images/OPGG_VPC.png?raw=true)
+![OPGG_VPC.png](https://raw.githubusercontent.com/leeseojune53/yatudy/bfa3147e122d1f803d0e4711e86363e6209e0257/images/AWS%20Architecture.svg)
 
