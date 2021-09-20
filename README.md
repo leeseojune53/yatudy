@@ -330,6 +330,9 @@ Study DevOps &amp; Backend
 - [Dispatcher Servlet 이전에 발생한 예외 처리](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Dispatcher%20Servlet%20%EC%9D%B4%EC%A0%84%EC%97%90%20%EB%B0%9C%EC%83%9D%ED%95%9C%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.md)
 - [연관관계 편의 메소드](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%ED%8E%B8%EC%9D%98%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
 - [동시성 문제를 제어하는 방법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EB%8F%99%EC%8B%9C%EC%84%B1%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+- [static 변수에 @Value 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/static%20%EB%B3%80%EC%88%98%EC%97%90%20%40Value%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [@Value값이 null로 들어갈 때 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Value%EA%B0%92%EC%9D%B4%20null%EB%A1%9C%20%EB%93%A4%EC%96%B4%EA%B0%88%20%EB%95%8C%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
+- [Bean의 생성 순서를 정하고 싶을 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Bean%EC%9D%98%20%EC%83%9D%EC%84%B1%20%EC%88%9C%EC%84%9C%EB%A5%BC%20%EC%A0%95%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C.md)
 
 
 
