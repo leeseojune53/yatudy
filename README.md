@@ -333,6 +333,7 @@ Study DevOps &amp; Backend
 - [static 변수에 @Value 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/static%20%EB%B3%80%EC%88%98%EC%97%90%20%40Value%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [@Value값이 null로 들어갈 때 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Value%EA%B0%92%EC%9D%B4%20null%EB%A1%9C%20%EB%93%A4%EC%96%B4%EA%B0%88%20%EB%95%8C%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 - [Bean의 생성 순서를 정하고 싶을 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Bean%EC%9D%98%20%EC%83%9D%EC%84%B1%20%EC%88%9C%EC%84%9C%EB%A5%BC%20%EC%A0%95%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C.md)
+- [Random과 SecureRandom 차이](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Random%EA%B3%BC%20SecureRandom%20%EC%B0%A8%EC%9D%B4.md)
 
 
 
