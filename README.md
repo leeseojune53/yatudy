@@ -21,11 +21,11 @@ Study DevOps &amp; Backend
 
 - [HTTP](https://github.com/leeseojune53/yatudy/blob/main/Internet/HTTP.md) -- 추가
 
-- [gRPC](https://github.com/yatudy/yatudy/blob/main/Internet/gRPC.md)
+- [gRPC](https://github.com/leeseojune53/yatudy/blob/main/Internet/gRPC.md)
 
 - API
 
-- [REST API](https://github.com/yatudy/yatudy/blob/main/Internet/REST%20API.md) -- 추가
+- [REST API](https://github.com/leeseojune53/yatudy/blob/main/Internet/REST%20API.md) -- 추가
 
 - SOAP
 
@@ -47,16 +47,16 @@ Study DevOps &amp; Backend
 
   - JWT
 
-  - [Session vs JWT](https://github.com/yatudy/yatudy/blob/main/Internet/Web/Session%20vs%20JWT.md)
+  - [Session vs JWT](https://github.com/leeseojune53/yatudy/blob/main/Internet/Web/Session%20vs%20JWT.md)
 
     #### Security
     
-    - [CORS](https://github.com/yatudy/yatudy/blob/main/Internet/Web/Security/CORS.md)
+    - [CORS](https://github.com/leeseojune53/yatudy/blob/main/Internet/Web/Security/CORS.md)
     - CSRF
   
   ### Message Queue
   
-  - [Message Queue](https://github.com/yatudy/yatudy/blob/main/Internet/Message%20Queue/Message%20Queue.md)
+  - [Message Queue](https://github.com/leeseojune53/yatudy/blob/main/Internet/Message%20Queue/Message%20Queue.md)
   
   - ActiveMQ
   - Kafka
@@ -101,8 +101,8 @@ Study DevOps &amp; Backend
 
 ### Flow
 
-- [Git Flow](https://github.com/yatudy/yatudy/blob/main/Git/Flow/GitFlow.md)
-- [GitHub Flow](https://github.com/yatudy/yatudy/blob/main/Git/Flow/GitHubFlow.md)
+- [Git Flow](https://github.com/leeseojune53/yatudy/blob/main/Git/Flow/GitFlow.md)
+- [GitHub Flow](https://github.com/leeseojune53/yatudy/blob/main/Git/Flow/GitHubFlow.md)
 
 
 
@@ -135,14 +135,14 @@ Study DevOps &amp; Backend
 
 ## AWS
 
-- [SNS](https://github.com/yatudy/yatudy/blob/main/AWS/SNS.md)
-- [SQS](https://github.com/yatudy/yatudy/blob/main/AWS/SQS.md)
-- [SNS vs SQS](https://github.com/yatudy/yatudy/blob/main/AWS/SNS%20vs%20SQS.md)
-- [CloudFront](https://github.com/yatudy/yatudy/blob/main/AWS/CloudFront.md)
-- [클라우드 서비스 모델](https://github.com/yatudy/yatudy/blob/main/AWS/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%AA%A8%EB%8D%B8.md)
-- [IaaS](https://github.com/yatudy/yatudy/blob/main/AWS/IaaS.md)
-- [PaaS](https://github.com/yatudy/yatudy/blob/main/AWS/PaaS.md)
-- [SaaS](https://github.com/yatudy/yatudy/blob/main/AWS/SaaS.md)
+- [SNS](https://github.com/leeseojune/yatudy/blob/main/AWS/SNS.md)
+- [SQS](https://github.com/leeseojune/yatudy/blob/main/AWS/SQS.md)
+- [SNS vs SQS](https://github.com/leeseojune/yatudy/blob/main/AWS/SNS%20vs%20SQS.md)
+- [CloudFront](https://github.com/leeseojune/yatudy/blob/main/AWS/CloudFront.md)
+- [클라우드 서비스 모델](https://github.com/leeseojune/yatudy/blob/main/AWS/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%AA%A8%EB%8D%B8.md)
+- [IaaS](https://github.com/leeseojune/yatudy/blob/main/AWS/IaaS.md)
+- [PaaS](https://github.com/leeseojune/yatudy/blob/main/AWS/PaaS.md)
+- [SaaS](https://github.com/leeseojune/yatudy/blob/main/AWS/SaaS.md)
 
 ### Tips
 
@@ -163,15 +163,15 @@ Study DevOps &amp; Backend
 
 ## Architecture
 
-- [Monolithic(모놀리식)](https://github.com/yatudy/yatudy/blob/main/Architecture/Monolithic.md)
+- [Monolithic(모놀리식)](https://github.com/leeseojune/yatudy/blob/main/Architecture/Monolithic.md)
 - [SOA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/SOA.md)
-- [SOA vs Monolithic](https://github.com/yatudy/yatudy/blob/main/Architecture/Monolithic%20vs%20SOA.md)
-- [MSA](https://github.com/yatudy/yatudy/blob/main/Architecture/MSA.md)
+- [SOA vs Monolithic](https://github.com/leeseojune/yatudy/blob/main/Architecture/Monolithic%20vs%20SOA.md)
+- [MSA](https://github.com/leeseojune/yatudy/blob/main/Architecture/MSA.md)
 - MSA vs SOA
 - MSA vs Monolithic
 - [MSA의 장애전파](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA_%EC%9E%A5%EC%95%A0%EC%A0%84%ED%8C%8C.md)
 - CQRS
-- [ServerLess](https://github.com/yatudy/yatudy/blob/main/Architecture/ServerLess.md)
+- [ServerLess](https://github.com/leeseojune/yatudy/blob/main/Architecture/ServerLess.md)
 - Event-driven architecture
 - [Coupling이란](https://github.com/leeseojune53/yatudy/blob/main/Architecture/Coupling%EC%9D%B4%EB%9E%80.md)
 
@@ -208,7 +208,7 @@ Study DevOps &amp; Backend
 - [교착상태](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C.md)
 - [병행프로세스](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EB%B3%91%ED%96%89%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
 - [상호배제](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EC%83%81%ED%98%B8%EB%B0%B0%EC%A0%9C.md)
-- [동기화](https://github.com/yatudy/yatudy/blob/main/CS/OS/동기화.md)
+- [동기화](https://github.com/leeseojune/yatudy/blob/main/CS/OS/동기화.md)
 
 
 
@@ -243,8 +243,8 @@ Study DevOps &amp; Backend
 
 ## Database
 
-- [ACID](https://github.com/yatudy/yatudy/blob/main/Database/ACID.md) --추가
-- [트랜잭션](https://github.com/yatudy/yatudy/blob/main/Database/Transaction.md)
+- [ACID](https://github.com/leeseojune/yatudy/blob/main/Database/ACID.md) --추가
+- [트랜잭션](https://github.com/leeseojune/yatudy/blob/main/Database/Transaction.md)
 - N+1 문제
 
 
@@ -302,11 +302,11 @@ Study DevOps &amp; Backend
 
 ### Library
 
-- [Jackson](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Jackson.md)
+- [Jackson](https://github.com/leeseojune/yatudy/blob/main/Spring%20Boot/Library/Jackson.md)
 
-- [Lombok](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Lombok.md)
+- [Lombok](https://github.com/leeseojune/yatudy/blob/main/Spring%20Boot/Library/Lombok.md)
 
-- [Security](https://github.com/yatudy/yatudy/blob/main/Spring%20Boot/Library/Security.md)
+- [Security](https://github.com/leeseojune/yatudy/blob/main/Spring%20Boot/Library/Security.md)
 
   #### cloud
 
@@ -334,6 +334,7 @@ Study DevOps &amp; Backend
 - [@Value값이 null로 들어갈 때 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Value%EA%B0%92%EC%9D%B4%20null%EB%A1%9C%20%EB%93%A4%EC%96%B4%EA%B0%88%20%EB%95%8C%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 - [Bean의 생성 순서를 정하고 싶을 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Bean%EC%9D%98%20%EC%83%9D%EC%84%B1%20%EC%88%9C%EC%84%9C%EB%A5%BC%20%EC%A0%95%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C.md)
 - [Random과 SecureRandom 차이](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Random%EA%B3%BC%20SecureRandom%20%EC%B0%A8%EC%9D%B4.md)
+- [Security에서 Session 정책 설정하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Security%EC%97%90%EC%84%9C%20Session%20%EC%A0%95%EC%B1%85%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
 
 
 
@@ -345,7 +346,7 @@ Study DevOps &amp; Backend
 
 ### Library
 
-- [**dotenv** vs **nestjs_env**](https://github.com/yatudy/yatudy/blob/main/NestJS/Library/dotenv%20vs%20nestjs_env.md)
+- [**dotenv** vs **nestjs_env**](https://github.com/leeseojune53/yatudy/blob/main/NestJS/Library/dotenv%20vs%20nestjs_env.md)
 
 
 
@@ -363,5 +364,5 @@ Study DevOps &amp; Backend
 
 ### Lectures
 
-- [[우아콘2020] 배달의민족 마이크로서비스 여행기](https://github.com/yatudy/yatudy/blob/main/Lectures/%5B%EC%9A%B0%EC%95%84%EC%BD%982020%5D%20%EB%B0%B0%EB%8B%AC%EC%9D%98%EB%AF%BC%EC%A1%B1%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%97%AC%ED%96%89%EA%B8%B0.md)
+- [[우아콘2020] 배달의민족 마이크로서비스 여행기](https://github.com/leeseojune53/yatudy/blob/main/Lectures/%5B%EC%9A%B0%EC%95%84%EC%BD%982020%5D%20%EB%B0%B0%EB%8B%AC%EC%9D%98%EB%AF%BC%EC%A1%B1%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%97%AC%ED%96%89%EA%B8%B0.md)
 
