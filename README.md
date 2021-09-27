@@ -340,6 +340,7 @@ Study DevOps &amp; Backend
 - [Bean의 생성 순서를 정하고 싶을 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Bean%EC%9D%98%20%EC%83%9D%EC%84%B1%20%EC%88%9C%EC%84%9C%EB%A5%BC%20%EC%A0%95%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C.md)
 - [Random과 SecureRandom 차이](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Random%EA%B3%BC%20SecureRandom%20%EC%B0%A8%EC%9D%B4.md)
 - [Security에서 Session 정책 설정하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Security%EC%97%90%EC%84%9C%20Session%20%EC%A0%95%EC%B1%85%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
+- [Request Dto에서 @Builder 사용 시 이상한 점](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Request%20Dto%EC%97%90%EC%84%9C%20%40Builder%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EC%A0%90.md)
 
 
 
