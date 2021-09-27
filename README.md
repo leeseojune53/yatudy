@@ -304,6 +304,7 @@ Study DevOps &amp; Backend
 ### JPA
 
 - [OSIV(Open Session In view)란?](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/JPA/OSIV(Open%20Session%20In%20view)%EB%9E%80.md)
+- [영속성 컨텍스트(Persistence Context)](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8(Persistence%20Context).md)
 
 ### Library
 
