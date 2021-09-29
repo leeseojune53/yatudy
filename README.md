@@ -342,6 +342,7 @@ Study DevOps &amp; Backend
 - [Random과 SecureRandom 차이](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Random%EA%B3%BC%20SecureRandom%20%EC%B0%A8%EC%9D%B4.md)
 - [Security에서 Session 정책 설정하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Security%EC%97%90%EC%84%9C%20Session%20%EC%A0%95%EC%B1%85%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
 - [Request Dto에서 @Builder 사용 시 이상한 점](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Request%20Dto%EC%97%90%EC%84%9C%20%40Builder%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EC%A0%90.md)
+- [Properties 또는 Yml에서 기본값 설정하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Properties%20%EB%98%90%EB%8A%94%20Yml%EC%97%90%EC%84%9C%20%EA%B8%B0%EB%B3%B8%EA%B0%92%20%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 
 
 
