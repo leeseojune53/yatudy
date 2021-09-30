@@ -187,6 +187,7 @@ Study DevOps &amp; Backend
 - [객체지향 5대 원칙](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%205%EB%8C%80%20%EC%9B%90%EC%B9%99.md)
 - [높은 응집도와 낮은 결합도](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EB%86%92%EC%9D%80%20%EC%9D%91%EC%A7%91%EB%8F%84%EC%99%80%20%EB%82%AE%EC%9D%80%20%EA%B2%B0%ED%95%A9%EB%8F%84.md)
 - [Service 구현체를 추상화 하는것에 대해](https://github.com/leeseojune53/yatudy/blob/main/OOP/Service%20%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A5%BC%20%EC%B6%94%EC%83%81%ED%99%94%20%ED%95%98%EB%8A%94%EA%B2%83%EC%97%90%20%EB%8C%80%ED%95%B4.md)
+- [서비스 로케이터(SL)란?](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%A1%9C%EC%BC%80%EC%9D%B4%ED%84%B0(SL)%EB%9E%80.md)
 
 
 
