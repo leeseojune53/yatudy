@@ -345,6 +345,8 @@ Study DevOps &amp; Backend
 - [Request Dto에서 @Builder 사용 시 이상한 점](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Request%20Dto%EC%97%90%EC%84%9C%20%40Builder%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EC%A0%90.md)
 - [Properties 또는 Yml에서 기본값 설정하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Properties%20%EB%98%90%EB%8A%94%20Yml%EC%97%90%EC%84%9C%20%EA%B8%B0%EB%B3%B8%EA%B0%92%20%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 - [Jwt Filter가 두 번 호출될 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Jwt%20Filter%EA%B0%80%20%EB%91%90%20%EB%B2%88%20%ED%98%B8%EC%B6%9C%EB%90%A0%20%EB%95%8C.md)
+- [JPA에서 커스텀 delete... 함수를 사용할 때 발생하는 예외 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/JPA%EC%97%90%EC%84%9C%20%EC%BB%A4%EC%8A%A4%ED%85%80%20delete...%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EC%98%88%EC%99%B8%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
+- [List안의 값을 Validation 하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/List%EC%95%88%EC%9D%98%20%EA%B0%92%EC%9D%84%20Validation%20%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 
 
 
