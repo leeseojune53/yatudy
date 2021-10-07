@@ -7,6 +7,68 @@ Study DevOps &amp; Backend
 
 [TOC]
 
+
+
+
+
+[Internet](https://github.com/leeseojune53/yatudy#internet)
+
+[소프트웨어 개발방법론](https://github.com/leeseojune53/yatudy#%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0)
+
+- [애자일 모형](https://github.com/leeseojune53/yatudy#%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%AA%A8%ED%98%95)
+- [비교](https://github.com/leeseojune53/yatudy#%EB%B9%84%EA%B5%90)
+
+[Git](https://github.com/leeseojune53/yatudy#git)
+
+- [Flow](https://github.com/leeseojune53/yatudy#flow)
+
+[CI/CD](https://github.com/leeseojune53/yatudy#cicd)
+
+[Docker](https://github.com/leeseojune53/yatudy#docker)
+
+[AWS](https://github.com/leeseojune53/yatudy#aws)
+
+- [Tips](https://github.com/leeseojune53/yatudy#tips)
+- [Summit](https://github.com/leeseojune53/yatudy#summit)
+
+[Architecture](https://github.com/leeseojune53/yatudy#architecture)
+
+[객체지향프로그래밍(OOP)](https://github.com/leeseojune53/yatudy#%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Doop)
+
+[CS(Computer Science)](https://github.com/leeseojune53/yatudy#cscomputer-science)
+
+- [Computer Network](https://github.com/leeseojune53/yatudy#computer-network)
+- [OS](https://github.com/leeseojune53/yatudy#os)
+
+[Language](https://github.com/leeseojune53/yatudy#language)
+
+- [JAVA](https://github.com/leeseojune53/yatudy#java)
+- [TypeScript](https://github.com/leeseojune53/yatudy#typescript)
+
+[Database](https://github.com/leeseojune53/yatudy#database)
+
+- [SQL](https://github.com/leeseojune53/yatudy#sql)
+- [NoSQL](https://github.com/leeseojune53/yatudy#nosql)
+
+[DevOps](https://github.com/leeseojune53/yatudy#devops)
+
+- [ELK](https://github.com/leeseojune53/yatudy#elk)
+
+[Spring Boot](https://github.com/leeseojune53/yatudy#spring-boot)
+
+- [Design Pattern](https://github.com/leeseojune53/yatudy#design-pattern)
+- [JPA](https://github.com/leeseojune53/yatudy#jpa)
+- [Library](https://github.com/leeseojune53/yatudy#library)
+- [Tips](https://github.com/leeseojune53/yatudy#tips-1)
+
+[NestJs](https://github.com/leeseojune53/yatudy#nestjs)
+
+- [Library](https://github.com/leeseojune53/yatudy#library-1)
+
+[Books](https://github.com/leeseojune53/yatudy#books)
+
+[Lectures](https://github.com/leeseojune53/yatudy#lectures)
+
 ---
 
 
@@ -347,6 +409,7 @@ Study DevOps &amp; Backend
 - [Jwt Filter가 두 번 호출될 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Jwt%20Filter%EA%B0%80%20%EB%91%90%20%EB%B2%88%20%ED%98%B8%EC%B6%9C%EB%90%A0%20%EB%95%8C.md)
 - [JPA에서 커스텀 delete... 함수를 사용할 때 발생하는 예외 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/JPA%EC%97%90%EC%84%9C%20%EC%BB%A4%EC%8A%A4%ED%85%80%20delete...%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EC%98%88%EC%99%B8%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 - [List안의 값을 Validation 하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/List%EC%95%88%EC%9D%98%20%EA%B0%92%EC%9D%84%20Validation%20%ED%95%98%EB%8A%94%20%EB%B2%95.md)
+- [Spring Bean은 상태를 가져도 되는가](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Bean%EC%9D%80%20%EC%83%81%ED%83%9C%EB%A5%BC%20%EA%B0%80%EC%A0%B8%EB%8F%84%20%EB%90%98%EB%8A%94%EA%B0%80.md)
 
 
 
@@ -374,7 +437,8 @@ Study DevOps &amp; Backend
 
 
 
-### Lectures
+## Lectures
 
 - [[우아콘2020] 배달의민족 마이크로서비스 여행기](https://github.com/leeseojune53/yatudy/blob/main/Lectures/%5B%EC%9A%B0%EC%95%84%EC%BD%982020%5D%20%EB%B0%B0%EB%8B%AC%EC%9D%98%EB%AF%BC%EC%A1%B1%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%97%AC%ED%96%89%EA%B8%B0.md)
+- [[핵클]쿠팡 출신 개발자의 장애 리스크 없이 배포하는 방법](https://github.com/leeseojune53/yatudy/blob/main/Lectures/%5B%ED%95%B5%ED%81%B4%5D%EC%BF%A0%ED%8C%A1%20%EC%B6%9C%EC%8B%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EC%9E%A5%EC%95%A0%20%EB%A6%AC%EC%8A%A4%ED%81%AC%20%EC%97%86%EC%9D%B4%20%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
