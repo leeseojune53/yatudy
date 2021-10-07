@@ -8,7 +8,7 @@
 
 ### 🔗 종속성 다이어그램
 
-![img](https://ichi.pro/assets/images/max/724/1*EfAFtp0lApHhPuQdUfCMDw.png)
+![img](https://miro.medium.com/max/724/1*EfAFtp0lApHhPuQdUfCMDw.png)
 
 #### 실제 사용방법
 
@@ -43,6 +43,10 @@ class Library{
 ```
 
 위 코드를 보면 ServiceLocator에 Loader가 Service를 추가해주고, Library class에서 그 Service를 injection해서 사용한다.
+
+### Factory와 차이점
+
+Factory는 이름과 같이 **객체를 생성**해주는 것이고, SL은 **서비스(객체)를 가져오는** 것이라고 보면 된다.
 
 ### 👍 다른 방법들..
 
