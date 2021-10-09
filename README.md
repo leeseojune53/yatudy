@@ -350,6 +350,20 @@ Study DevOps &amp; Backend
 - [ELK란?](https://github.com/leeseojune53/yatudy/blob/main/DevOps/ELK/ELK%EB%9E%80.md)
 - [ELK Stack를 도커로 구축해보자!](https://github.com/leeseojune53/yatudy/blob/main/DevOps/ELK/ELK%20Stack%EC%9D%84%20%EB%8F%84%EC%BB%A4%EB%A1%9C%20%EA%B5%AC%EC%B6%95%ED%95%B4%EB%B3%B4%EC%9E%90!.md)
 
+
+
+---
+
+
+
+## Server
+
+### Tips
+
+- [Nginx로 해외 ip 차단하는 법](https://github.com/leeseojune53/yatudy/blob/main/Server/Tips/Nginx%EB%A1%9C%20%ED%95%B4%EC%99%B8%20ip%20%EC%B0%A8%EB%8B%A8%ED%95%98%EB%8A%94%20%EB%B2%95.md)
+
+
+
 ---
 
 
