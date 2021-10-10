@@ -373,6 +373,7 @@ Study DevOps &amp; Backend
 - [스프링 3대 요소](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/%EC%8A%A4%ED%94%84%EB%A7%81%203%EB%8C%80%20%EC%9A%94%EC%86%8C.md)
 - [@Bean vs @Component](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/%40Bean%20vs%20%40Component.md)
 - [AOP @Around 어노테이션](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/AOP%20%40Around%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.md)
+- [IoC 컨테이너](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/IoC%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
 
 ### Design Pattern
 
