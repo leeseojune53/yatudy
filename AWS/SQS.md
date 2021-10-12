@@ -1,6 +1,6 @@
 # AWS SQS란?
 
-## AWS SQS란?
+### 📌 정의
 
 - SQS는 Simple Queue Service의 약자
 - 애플리케이션 간의 메시지를 저달하기 위한 아주 **간단한** Queue 라고 생각하면 된다.
