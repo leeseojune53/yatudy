@@ -3,6 +3,8 @@ Study DevOps &amp; Backend
 
 부족한 부분 또는 오타 발견시 언제든 PR날려주세요. 👋👋
 
+글 작성 시에는 [규칙](https://github.com/leeseojune53/yatudy/blob/main/Rule.md)에 따라 작성 부탁드립니다😀
+
 ---
 
 [TOC]
@@ -12,6 +14,9 @@ Study DevOps &amp; Backend
 ## 목차
 
 [Internet](https://github.com/leeseojune53/yatudy#internet)
+
+- [Web](https://github.com/leeseojune53/yatudy#web)
+- [Message Queue](https://github.com/leeseojune53/yatudy#message-queue)
 
 [소프트웨어 개발방법론](https://github.com/leeseojune53/yatudy#%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0)
 
@@ -54,11 +59,16 @@ Study DevOps &amp; Backend
 
 - [ELK](https://github.com/leeseojune53/yatudy#elk)
 
+[Server](https://github.com/leeseojune53/yatudy#server)
+
+- [Tips](https://github.com/leeseojune53/yatudy#tips-1)
+
 [Spring Boot](https://github.com/leeseojune53/yatudy#spring-boot)
 
 - [Design Pattern](https://github.com/leeseojune53/yatudy#design-pattern)
 - [JPA](https://github.com/leeseojune53/yatudy#jpa)
 - [Library](https://github.com/leeseojune53/yatudy#library)
+  - [Cloud](https://github.com/leeseojune53/yatudy#cloud)
 - [Tips](https://github.com/leeseojune53/yatudy#tips-1)
 
 [NestJs](https://github.com/leeseojune53/yatudy#nestjs)
@@ -400,7 +410,7 @@ Study DevOps &amp; Backend
 
 - [Security](https://github.com/leeseojune/yatudy/blob/main/Spring%20Boot/Library/Security.md)
 
-  #### cloud
+  #### Cloud
 
   - [OpenFeign](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Library/cloud/OpenFeign.md)
 
