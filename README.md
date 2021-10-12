@@ -136,7 +136,7 @@ Study DevOps &amp; Backend
   - [Message Queue](https://github.com/leeseojune53/yatudy/blob/main/Internet/Message%20Queue/Message%20Queue.md)
   
   - ActiveMQ
-  - Kafka
+  - [Kafka](https://github.com/leeseojune53/yatudy/blob/main/Internet/Message%20Queue/Kafka.md)
   - RabbitMQ
 
 
