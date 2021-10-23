@@ -443,6 +443,10 @@ Study DevOps &amp; Backend
 - [JPA에서 커스텀 delete... 함수를 사용할 때 발생하는 예외 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/JPA%EC%97%90%EC%84%9C%20%EC%BB%A4%EC%8A%A4%ED%85%80%20delete...%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EC%98%88%EC%99%B8%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 - [List안의 값을 Validation 하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/List%EC%95%88%EC%9D%98%20%EA%B0%92%EC%9D%84%20Validation%20%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 - [Spring Bean은 상태를 가져도 되는가](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Bean%EC%9D%80%20%EC%83%81%ED%83%9C%EB%A5%BC%20%EA%B0%80%EC%A0%B8%EB%8F%84%20%EB%90%98%EB%8A%94%EA%B0%80.md)
+- [부모 객체에서 자식 객체를 가져올 때 no Session 에러(parallelStream)](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EB%B6%80%EB%AA%A8%20%EA%B0%9D%EC%B2%B4%EC%97%90%EC%84%9C%20%EC%9E%90%EC%8B%9D%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EA%B0%80%EC%A0%B8%EC%98%AC%20%EB%95%8C%20no%20Session%20%EC%97%90%EB%9F%AC(parallelStream).md)
+- [@Query로 변경, 삭제 메소드를 사용했을 때 발생하는 에러 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Query%EB%A1%9C%20%EB%B3%80%EA%B2%BD%2C%20%EC%82%AD%EC%A0%9C%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%96%88%EC%9D%84%20%EB%95%8C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EC%97%90%EB%9F%AC%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
+- [Spring Boot Exception 효율적인 처리방식](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%20Exception%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%8B%9D.md)
+- [Spring boot에서 CORS 설정을 해도 CORS가 뜨는 경우 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20boot%EC%97%90%EC%84%9C%20CORS%20%EC%84%A4%EC%A0%95%EC%9D%84%20%ED%95%B4%EB%8F%84%20CORS%EA%B0%80%20%EB%9C%A8%EB%8A%94%20%EA%B2%BD%EC%9A%B0%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 
 
 
