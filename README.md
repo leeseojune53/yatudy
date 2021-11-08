@@ -451,6 +451,7 @@ Study DevOps &amp; Backend
 - [Spring Boot 통합 테스트 설정하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%20%ED%86%B5%ED%95%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
 - [Entity에서 @Id column의 타입(Wrapper Type)](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Entity%EC%97%90%EC%84%9C%20%40Id%20column%EC%9D%98%20%ED%83%80%EC%9E%85(Wrapper%20Type).md)
 - [Spring 에서 Aws 의존성사용 시 WARN 메세지](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20%EC%97%90%EC%84%9C%20Aws%20%EC%9D%98%EC%A1%B4%EC%84%B1%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20WARN%20%EB%A9%94%EC%84%B8%EC%A7%80.md)
+- [Jackson에서 불필요한 중괄호를 없애는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Jackson%EC%97%90%EC%84%9C%20%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EC%A4%91%EA%B4%84%ED%98%B8%EB%A5%BC%20%EC%97%86%EC%95%A0%EB%8A%94%20%EB%B2%95.md)
 
 
 
