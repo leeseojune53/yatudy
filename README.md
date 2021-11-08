@@ -266,7 +266,8 @@ Study DevOps &amp; Backend
 - [객체지향 5대 원칙](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%205%EB%8C%80%20%EC%9B%90%EC%B9%99.md)
 - [높은 응집도와 낮은 결합도](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EB%86%92%EC%9D%80%20%EC%9D%91%EC%A7%91%EB%8F%84%EC%99%80%20%EB%82%AE%EC%9D%80%20%EA%B2%B0%ED%95%A9%EB%8F%84.md)
 - [Service 구현체를 추상화 하는것에 대해](https://github.com/leeseojune53/yatudy/blob/main/OOP/Service%20%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A5%BC%20%EC%B6%94%EC%83%81%ED%99%94%20%ED%95%98%EB%8A%94%EA%B2%83%EC%97%90%20%EB%8C%80%ED%95%B4.md)
-- [DI](https://github.com/leeseojune53/yatudy/blob/main/OOP/DI%EB%9E%80.md)
+- [DI란](https://github.com/leeseojune53/yatudy/blob/main/OOP/DI%EB%9E%80.md)
+- [IoC란](https://github.com/leeseojune53/yatudy/blob/main/OOP/IoC%EB%9E%80.md) -- 추가
 - [서비스 로케이터(SL)란?](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%A1%9C%EC%BC%80%EC%9D%B4%ED%84%B0(SL)%EB%9E%80.md)
 - [DI vs IoC vs DIP](https://github.com/leeseojune53/yatudy/blob/main/OOP/DI%20vs%20IoC%20vs%20DIP.md)
 
@@ -452,6 +453,7 @@ Study DevOps &amp; Backend
 - [Entity에서 @Id column의 타입(Wrapper Type)](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Entity%EC%97%90%EC%84%9C%20%40Id%20column%EC%9D%98%20%ED%83%80%EC%9E%85(Wrapper%20Type).md)
 - [Spring 에서 Aws 의존성사용 시 WARN 메세지](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20%EC%97%90%EC%84%9C%20Aws%20%EC%9D%98%EC%A1%B4%EC%84%B1%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20WARN%20%EB%A9%94%EC%84%B8%EC%A7%80.md)
 - [Jackson에서 불필요한 중괄호를 없애는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Jackson%EC%97%90%EC%84%9C%20%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EC%A4%91%EA%B4%84%ED%98%B8%EB%A5%BC%20%EC%97%86%EC%95%A0%EB%8A%94%20%EB%B2%95.md)
+- [Jar파일 외부의 파일을 가져오는 방법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Jar%ED%8C%8C%EC%9D%BC%20%EC%99%B8%EB%B6%80%EC%9D%98%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
 
 
