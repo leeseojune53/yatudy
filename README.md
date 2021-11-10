@@ -205,6 +205,10 @@ Study DevOps &amp; Backend
 - [DockerHub](https://github.com/leeseojune53/yatudy/blob/main/Docker/DockerHub.md)
 - [Docker Swarm](https://github.com/leeseojune53/yatudy/blob/main/Docker/Docker%20Swarm.md)
 
+### Tips
+
+- [Docker에 Nginx 띄우기](https://github.com/leeseojune53/yatudy/blob/main/Docker/Tips/Docker%EC%97%90%20Nginx%20%EB%9D%84%EC%9A%B0%EA%B8%B0.md)
+
 
 
 ---
@@ -270,6 +274,7 @@ Study DevOps &amp; Backend
 - [IoC란](https://github.com/leeseojune53/yatudy/blob/main/OOP/IoC%EB%9E%80.md) -- 추가
 - [서비스 로케이터(SL)란?](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%A1%9C%EC%BC%80%EC%9D%B4%ED%84%B0(SL)%EB%9E%80.md)
 - [DI vs IoC vs DIP](https://github.com/leeseojune53/yatudy/blob/main/OOP/DI%20vs%20IoC%20vs%20DIP.md)
+- [디미터 법칙이란](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EB%94%94%EB%AF%B8%ED%84%B0%20%EB%B2%95%EC%B9%99%EC%9D%B4%EB%9E%80.md)
 
 
 
