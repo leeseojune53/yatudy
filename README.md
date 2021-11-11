@@ -174,7 +174,7 @@ Study DevOps &amp; Backend
 
 ## Git
 
-- Git이란?
+- [Git이란?](https://github.com/leeseojune53/yatudy/blob/main/Git/Git%EC%9D%B4%EB%9E%80.md)
 
 ### Flow
 
@@ -335,7 +335,6 @@ Study DevOps &amp; Backend
 - [ACID](https://github.com/leeseojune/yatudy/blob/main/Database/ACID.md) --추가
 - [트랜잭션](https://github.com/leeseojune/yatudy/blob/main/Database/Transaction.md)
 - [식별관계와 비식별관계](https://github.com/leeseojune53/yatudy/blob/main/Database/%EC%8B%9D%EB%B3%84%EA%B4%80%EA%B3%84%EC%99%80%20%EB%B9%84%EC%8B%9D%EB%B3%84%EA%B4%80%EA%B3%84.md)
-- N+1 문제
 
 
 
@@ -409,6 +408,7 @@ Study DevOps &amp; Backend
 
 - [OSIV(Open Session In view)란?](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/JPA/OSIV(Open%20Session%20In%20view)%EB%9E%80.md)
 - [영속성 컨텍스트(Persistence Context)](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8(Persistence%20Context).md)
+- [JPA N+1 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/JPA/JPA%20N%2B1%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 
 ### Library
 
@@ -436,7 +436,6 @@ Study DevOps &amp; Backend
 - [Embedded Redis 사용 시 에러](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Embedded%20Redis%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%97%90%EB%9F%AC.md)
 - [테스트를 제외하고 Spring Build하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%A0%9C%EC%99%B8%ED%95%98%EA%B3%A0%20Spring%20Build%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 - [Querydsl 사용 시 Cannot find symbol 오류 발생](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Querydsl%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20Cannot%20find%20symbol%20%EC%98%A4%EB%A5%98%20%EB%B0%9C%EC%83%9D.md)
-- [JPA N+1 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/JPA%20N%2B1%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 - [Dispatcher Servlet 이전에 발생한 예외 처리](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Dispatcher%20Servlet%20%EC%9D%B4%EC%A0%84%EC%97%90%20%EB%B0%9C%EC%83%9D%ED%95%9C%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.md)
 - [연관관계 편의 메소드](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%ED%8E%B8%EC%9D%98%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
 - [동시성 문제를 제어하는 방법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EB%8F%99%EC%8B%9C%EC%84%B1%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
