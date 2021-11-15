@@ -92,7 +92,7 @@ Study DevOps &amp; Backend
 
 - TCP/UDP
 
-- URI vs URL vs URN
+- [URI vs URL vs URN](https://github.com/leeseojune53/yatudy/blob/main/Internet/URI%20vs%20URL%20vs%20URN.md)
 
 - [HTTP](https://github.com/leeseojune53/yatudy/blob/main/Internet/HTTP.md) -- 추가
 
