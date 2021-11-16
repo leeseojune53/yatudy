@@ -469,6 +469,7 @@ Study DevOps &amp; Backend
 - [Jackson에서 불필요한 중괄호를 없애는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Jackson%EC%97%90%EC%84%9C%20%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EC%A4%91%EA%B4%84%ED%98%B8%EB%A5%BC%20%EC%97%86%EC%95%A0%EB%8A%94%20%EB%B2%95.md)
 - [Jar파일 외부의 파일을 가져오는 방법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Jar%ED%8C%8C%EC%9D%BC%20%EC%99%B8%EB%B6%80%EC%9D%98%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 - [Entity에서 식별관계 매핑하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Entity%EC%97%90%EC%84%9C%20%EC%8B%9D%EB%B3%84%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91%ED%95%98%EA%B8%B0.md)
+- [Log4j vs Slf4j](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Log4j%20vs%20Slf4j.md)
 
 
 
