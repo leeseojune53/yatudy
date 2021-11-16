@@ -234,6 +234,10 @@ Study DevOps &amp; Backend
 - [S3 퍼블릭 액세스](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/S3%20%ED%8D%BC%EB%B8%94%EB%A6%AD%20%EC%95%A1%EC%84%B8%EC%8A%A4.md)
 - [외부로부터 안전한 EC2, RDS를 구축하기](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/%EC%99%B8%EB%B6%80%EB%A1%9C%EB%B6%80%ED%84%B0%20%EC%95%88%EC%A0%84%ED%95%9C%20EC2%2C%20RDS%EB%A5%BC%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
 - [AWS 키워드 정리](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/AWS%20%ED%82%A4%EC%9B%8C%EB%93%9C%20%EC%A0%95%EB%A6%AC.md)
+- [ECR private 저장소 pull 받는 법](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/ECR%20private%20%EC%A0%80%EC%9E%A5%EC%86%8C%20pull%20%EB%B0%9B%EB%8A%94%20%EB%B2%95.md)
+- [EC2 SSM 활용하기](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/EC2%20SSM%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [Public subnet vs Private subnet](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/Public%20subnet%20vs%20Private%20subnet.md)
+- [ECR과 람다를 활용해 CD 구축하기](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/ECR%EA%B3%BC%20%EB%9E%8C%EB%8B%A4%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%B4%20CD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
 
 ### Summit
 
