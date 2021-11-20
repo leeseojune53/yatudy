@@ -471,6 +471,7 @@ Study DevOps &amp; Backend
 - [Entity에서 식별관계 매핑하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Entity%EC%97%90%EC%84%9C%20%EC%8B%9D%EB%B3%84%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91%ED%95%98%EA%B8%B0.md)
 - [Log4j vs Slf4j](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Log4j%20vs%20Slf4j.md)
 - [Request Wrapper를 만드는 이유](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Request%20Wrapper%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- [Spring Boot에서 CORS 멋있게 해결하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20CORS%20%EB%A9%8B%EC%9E%88%EA%B2%8C%20%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 
 
 
