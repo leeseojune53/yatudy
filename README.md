@@ -90,7 +90,7 @@ Study DevOps &amp; Backend
 
 - [인터넷 동작 원리](https://github.com/leeseojune53/yatudy/blob/main/Internet/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
-- TCP/UDP
+- [TCP vs UDP](https://github.com/leeseojune53/yatudy/blob/main/Internet/TCP%20vs%20UDP.md)
 
 - [URI vs URL vs URN](https://github.com/leeseojune53/yatudy/blob/main/Internet/URI%20vs%20URL%20vs%20URN.md)
 
