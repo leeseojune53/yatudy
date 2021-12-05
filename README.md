@@ -419,6 +419,10 @@ Study DevOps &amp; Backend
 - [영속성 컨텍스트(Persistence Context)](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8(Persistence%20Context).md)
 - [JPA N+1 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/JPA/JPA%20N%2B1%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 
+### Querydsl
+
+- [Q-Class를 만드는 이유](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Querydsl/Q-Class%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+
 ### Library
 
 - [Jackson](https://github.com/leeseojune/yatudy/blob/main/Spring%20Boot/Library/Jackson.md)
