@@ -312,6 +312,8 @@ Study DevOps &amp; Backend
 
 ## Language
 
+- [Refrence Type과 Value Type의 차이점](https://github.com/leeseojune53/yatudy/blob/main/Language/Refrence%20Type%EA%B3%BC%20Value%20Type%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
+
 ### JAVA
 
 - [일급 컬렉션이란](https://github.com/leeseojune53/yatudy/blob/main/Language/Java/%EC%9D%BC%EA%B8%89%20%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%B4%EB%9E%80.md)
@@ -345,8 +347,6 @@ Study DevOps &amp; Backend
 - [트랜잭션](https://github.com/leeseojune/yatudy/blob/main/Database/Transaction.md)
 - [식별관계와 비식별관계](https://github.com/leeseojune53/yatudy/blob/main/Database/%EC%8B%9D%EB%B3%84%EA%B4%80%EA%B3%84%EC%99%80%20%EB%B9%84%EC%8B%9D%EB%B3%84%EA%B4%80%EA%B3%84.md)
 
-
-
 ### SQL
 
 - SQL
@@ -354,18 +354,15 @@ Study DevOps &amp; Backend
 - Oracle
 - PostgreSQL
 
-
-
----
-
-
-
 ### NoSQL
 
 - NoSQL
-
 - Redis
 - MongoDB
+
+### Tips
+
+- [Innerjoin과 where의 차이](https://github.com/leeseojune53/yatudy/blob/main/Database/Tips/Innerjoin%EA%B3%BC%20where%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 
 
 
@@ -422,6 +419,7 @@ Study DevOps &amp; Backend
 ### Querydsl
 
 - [Q-Class를 만드는 이유](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Querydsl/Q-Class%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- [Querydsl 기본 세팅](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Querydsl/Querydsl%20%EA%B8%B0%EB%B3%B8%20%EC%84%B8%ED%8C%85.md)
 
 ### Library
 
