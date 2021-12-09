@@ -238,6 +238,7 @@ Study DevOps &amp; Backend
 - [EC2 SSM 활용하기](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/EC2%20SSM%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [Public subnet vs Private subnet](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/Public%20subnet%20vs%20Private%20subnet.md)
 - [ECR과 람다를 활용해 CD 구축하기](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/ECR%EA%B3%BC%20%EB%9E%8C%EB%8B%A4%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%B4%20CD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
+- [S3의 인증서가 올바르지 않다고 뜰 때 해결법](https://github.com/leeseojune53/yatudy/blob/main/AWS/Tips/S3%EC%9D%98%20%EC%9D%B8%EC%A6%9D%EC%84%9C%EA%B0%80%20%EC%98%AC%EB%B0%94%EB%A5%B4%EC%A7%80%20%EC%95%8A%EB%8B%A4%EA%B3%A0%20%EB%9C%B0%20%EB%95%8C%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 
 ### Summit
 
@@ -280,6 +281,7 @@ Study DevOps &amp; Backend
 - [서비스 로케이터(SL)란?](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%A1%9C%EC%BC%80%EC%9D%B4%ED%84%B0(SL)%EB%9E%80.md)
 - [DI vs IoC vs DIP](https://github.com/leeseojune53/yatudy/blob/main/OOP/DI%20vs%20IoC%20vs%20DIP.md)
 - [디미터 법칙이란](https://github.com/leeseojune53/yatudy/blob/main/OOP/%EB%94%94%EB%AF%B8%ED%84%B0%20%EB%B2%95%EC%B9%99%EC%9D%B4%EB%9E%80.md)
+- [IoC vs Factory Pattern](https://github.com/leeseojune53/yatudy/blob/main/OOP/IoC%20vs%20Factory%20Pattern.md)
 
 
 
@@ -475,6 +477,10 @@ Study DevOps &amp; Backend
 - [Request Wrapper를 만드는 이유](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Request%20Wrapper%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
 - [Spring Boot에서 CORS 멋있게 해결하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20CORS%20%EB%A9%8B%EC%9E%88%EA%B2%8C%20%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 - [Spring Boot SocketIO 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%20SocketIO%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [일대일 양방향 매핑의 큰 단점](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%9D%BC%EB%8C%80%EC%9D%BC%20%EC%96%91%EB%B0%A9%ED%96%A5%20%EB%A7%A4%ED%95%91%EC%9D%98%20%ED%81%B0%20%EB%8B%A8%EC%A0%90.md)
+- [@PrimaryKeyJoinColumn이란](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40PrimaryKeyJoinColumn%EC%9D%B4%EB%9E%80.md)
+- [Mockito cannot mockspy because - final class 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Mockito%20cannot%20mockspy%20because%20-%20final%20class%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
+- [Mockito when에서 파라미터 가져오기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Mockito%20when%EC%97%90%EC%84%9C%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
 
 
 
