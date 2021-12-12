@@ -219,14 +219,14 @@ Study DevOps &amp; Backend
 
 ## AWS
 
-- [SNS](https://github.com/leeseojune/yatudy/blob/main/AWS/SNS.md)
-- [SQS](https://github.com/leeseojune/yatudy/blob/main/AWS/SQS.md)
-- [SNS vs SQS](https://github.com/leeseojune/yatudy/blob/main/AWS/SNS%20vs%20SQS.md)
-- [CloudFront](https://github.com/leeseojune/yatudy/blob/main/AWS/CloudFront.md)
-- [클라우드 서비스 모델](https://github.com/leeseojune/yatudy/blob/main/AWS/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%AA%A8%EB%8D%B8.md)
-- [IaaS](https://github.com/leeseojune/yatudy/blob/main/AWS/IaaS.md)
-- [PaaS](https://github.com/leeseojune/yatudy/blob/main/AWS/PaaS.md)
-- [SaaS](https://github.com/leeseojune/yatudy/blob/main/AWS/SaaS.md)
+- [SNS](https://github.com/leeseojune53/yatudy/blob/main/AWS/SNS.md)
+- [SQS](https://github.com/leeseojune53/yatudy/blob/main/AWS/SQS.md)
+- [SNS vs SQS](https://github.com/leeseojune53/yatudy/blob/main/AWS/SNS%20vs%20SQS.md)
+- [CloudFront](https://github.com/leeseojune53/yatudy/blob/main/AWS/CloudFront.md)
+- [클라우드 서비스 모델](https://github.com/leeseojune53/yatudy/blob/main/AWS/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%AA%A8%EB%8D%B8.md)
+- [IaaS](https://github.com/leeseojune53/yatudy/blob/main/AWS/IaaS.md)
+- [PaaS](https://github.com/leeseojune53/yatudy/blob/main/AWS/PaaS.md)
+- [SaaS](https://github.com/leeseojune53/yatudy/blob/main/AWS/SaaS.md)
 
 ### Tips
 
@@ -253,15 +253,15 @@ Study DevOps &amp; Backend
 
 ## Architecture
 
-- [Monolithic(모놀리식)](https://github.com/leeseojune/yatudy/blob/main/Architecture/Monolithic.md)
+- [Monolithic(모놀리식)](https://github.com/leeseojune53/yatudy/blob/main/Architecture/Monolithic.md)
 - [SOA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/SOA.md)
-- [SOA vs Monolithic](https://github.com/leeseojune/yatudy/blob/main/Architecture/Monolithic%20vs%20SOA.md)
-- [MSA](https://github.com/leeseojune/yatudy/blob/main/Architecture/MSA.md)
+- [SOA vs Monolithic](https://github.com/leeseojune53/yatudy/blob/main/Architecture/Monolithic%20vs%20SOA.md)
+- [MSA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA.md)
 - MSA vs SOA
 - MSA vs Monolithic
 - [MSA의 장애전파](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA_%EC%9E%A5%EC%95%A0%EC%A0%84%ED%8C%8C.md)
 - CQRS
-- [ServerLess](https://github.com/leeseojune/yatudy/blob/main/Architecture/ServerLess.md)
+- [ServerLess](https://github.com/leeseojune53/yatudy/blob/main/Architecture/ServerLess.md)
 - Event-driven architecture
 - [Coupling이란](https://github.com/leeseojune53/yatudy/blob/main/Architecture/Coupling%EC%9D%B4%EB%9E%80.md)
 
@@ -305,7 +305,7 @@ Study DevOps &amp; Backend
 - [교착상태](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C.md)
 - [병행프로세스](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EB%B3%91%ED%96%89%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
 - [상호배제](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EC%83%81%ED%98%B8%EB%B0%B0%EC%A0%9C.md)
-- [동기화](https://github.com/leeseojune/yatudy/blob/main/CS/OS/동기화.md)
+- [동기화](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/동기화.md)
 
 
 
@@ -346,8 +346,8 @@ Study DevOps &amp; Backend
 
 ## Database
 
-- [ACID](https://github.com/leeseojune/yatudy/blob/main/Database/ACID.md) --추가
-- [트랜잭션](https://github.com/leeseojune/yatudy/blob/main/Database/Transaction.md)
+- [ACID](https://github.com/leeseojune53/yatudy/blob/main/Database/ACID.md) --추가
+- [트랜잭션](https://github.com/leeseojune53/yatudy/blob/main/Database/Transaction.md)
 - [식별관계와 비식별관계](https://github.com/leeseojune53/yatudy/blob/main/Database/%EC%8B%9D%EB%B3%84%EA%B4%80%EA%B3%84%EC%99%80%20%EB%B9%84%EC%8B%9D%EB%B3%84%EA%B4%80%EA%B3%84.md)
 
 ### SQL
@@ -426,11 +426,11 @@ Study DevOps &amp; Backend
 
 ### Library
 
-- [Jackson](https://github.com/leeseojune/yatudy/blob/main/Spring%20Boot/Library/Jackson.md)
+- [Jackson](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Library/Jackson.md)
 
-- [Lombok](https://github.com/leeseojune/yatudy/blob/main/Spring%20Boot/Library/Lombok.md)
+- [Lombok](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Library/Lombok.md)
 
-- [Security](https://github.com/leeseojune/yatudy/blob/main/Spring%20Boot/Library/Security.md)
+- [Security](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Library/Security.md)
 
   #### Cloud
 
