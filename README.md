@@ -206,10 +206,13 @@ Study DevOps &amp; Backend
 - [DockerHub](https://github.com/leeseojune53/yatudy/blob/main/Docker/DockerHub.md)
 - [Docker Swarm](https://github.com/leeseojune53/yatudy/blob/main/Docker/Docker%20Swarm.md)
 - [Swarmpit이란?](https://github.com/leeseojune53/yatudy/blob/main/Docker/Swarmpit.md)
+- [Portainer란?](https://github.com/leeseojune53/yatudy/blob/main/Docker/Portainer.md)
 
 ### Tips
 
 - [Docker에 Nginx 띄우기](https://github.com/leeseojune53/yatudy/blob/main/Docker/Tips/Docker%EC%97%90%20Nginx%20%EB%9D%84%EC%9A%B0%EA%B8%B0.md)
+- [Docker Registry 만들기](https://github.com/leeseojune53/yatudy/blob/main/Docker/Tips/Docker%20Registry%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+- [Portainer 사용법](https://github.com/leeseojune53/yatudy/blob/main/Docker/Tips/Portainer%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
 
 
 
@@ -306,6 +309,7 @@ Study DevOps &amp; Backend
 - [병행프로세스](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EB%B3%91%ED%96%89%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
 - [상호배제](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EC%83%81%ED%98%B8%EB%B0%B0%EC%A0%9C.md)
 - [동기화](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/동기화.md)
+- [가상메모리](https://github.com/leeseojune53/yatudy/blob/main/CS/OS/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
 
 
 
