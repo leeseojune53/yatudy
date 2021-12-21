@@ -259,10 +259,10 @@ Study DevOps &amp; Backend
 - [Monolithic(모놀리식)](https://github.com/leeseojune53/yatudy/blob/main/Architecture/Monolithic.md)
 - [SOA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/SOA.md)
 - [SOA vs Monolithic](https://github.com/leeseojune53/yatudy/blob/main/Architecture/Monolithic%20vs%20SOA.md)
-- [MSA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA.md)
+- [MSA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA/MSA.md)
 - MSA vs SOA
 - MSA vs Monolithic
-- [MSA의 장애전파](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA_%EC%9E%A5%EC%95%A0%EC%A0%84%ED%8C%8C.md)
+- [MSA의 장애전파](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA/MSA_%EC%9E%A5%EC%95%A0%EC%A0%84%ED%8C%8C.md)
 - CQRS
 - [ServerLess](https://github.com/leeseojune53/yatudy/blob/main/Architecture/ServerLess.md)
 - Event-driven architecture
