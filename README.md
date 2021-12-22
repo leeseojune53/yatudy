@@ -259,14 +259,18 @@ Study DevOps &amp; Backend
 - [Monolithic(모놀리식)](https://github.com/leeseojune53/yatudy/blob/main/Architecture/Monolithic.md)
 - [SOA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/SOA.md)
 - [SOA vs Monolithic](https://github.com/leeseojune53/yatudy/blob/main/Architecture/Monolithic%20vs%20SOA.md)
-- [MSA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA/MSA.md)
 - MSA vs SOA
 - MSA vs Monolithic
-- [MSA의 장애전파](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA/MSA_%EC%9E%A5%EC%95%A0%EC%A0%84%ED%8C%8C.md)
 - CQRS
 - [ServerLess](https://github.com/leeseojune53/yatudy/blob/main/Architecture/ServerLess.md)
 - Event-driven architecture
 - [Coupling이란](https://github.com/leeseojune53/yatudy/blob/main/Architecture/Coupling%EC%9D%B4%EB%9E%80.md)
+
+### MSA
+
+- [MSA](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA/MSA.md)
+- [MSA의 장애전파](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA/MSA_%EC%9E%A5%EC%95%A0%EC%A0%84%ED%8C%8C.md)
+- [Service discovery 패턴이란?](https://github.com/leeseojune53/yatudy/blob/main/Architecture/MSA/Service%20discovery%20%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80.md)
 
 
 
@@ -353,6 +357,7 @@ Study DevOps &amp; Backend
 - [ACID](https://github.com/leeseojune53/yatudy/blob/main/Database/ACID.md) --추가
 - [트랜잭션](https://github.com/leeseojune53/yatudy/blob/main/Database/Transaction.md)
 - [식별관계와 비식별관계](https://github.com/leeseojune53/yatudy/blob/main/Database/%EC%8B%9D%EB%B3%84%EA%B4%80%EA%B3%84%EC%99%80%20%EB%B9%84%EC%8B%9D%EB%B3%84%EA%B4%80%EA%B3%84.md)
+- [Index란?](https://github.com/leeseojune53/yatudy/blob/main/Database/Index.md)
 
 ### SQL
 
@@ -436,6 +441,8 @@ Study DevOps &amp; Backend
 
 - [Security](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Library/Security.md)
 
+- [Spring Boot Admin](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Library/Spring%20Boot%20Admin.md)
+
   #### Cloud
 
   - [OpenFeign](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Library/cloud/OpenFeign.md)
@@ -486,6 +493,10 @@ Study DevOps &amp; Backend
 - [@PrimaryKeyJoinColumn이란](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40PrimaryKeyJoinColumn%EC%9D%B4%EB%9E%80.md)
 - [Mockito cannot mockspy because - final class 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Mockito%20cannot%20mockspy%20because%20-%20final%20class%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 - [Mockito when에서 파라미터 가져오기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Mockito%20when%EC%97%90%EC%84%9C%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
+- [Spring Boot Admin 구축하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%20Admin%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
+- [Spring Boot에서 DB인덱싱하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20DB%EC%9D%B8%EB%8D%B1%EC%8B%B1%ED%95%98%EA%B8%B0.md)
+- [@Transactional의 종류](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Transactional%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
+- [Kopring 시작 설정하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Kopring%20%EC%8B%9C%EC%9E%91%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
 
 
 
