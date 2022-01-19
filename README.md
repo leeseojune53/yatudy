@@ -447,36 +447,25 @@ Study DevOps &amp; Backend
 
   - [OpenFeign](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Library/cloud/OpenFeign.md)
 
-
 ### Tips
 
 - [Spring Boot에서 Request Parameter를 객체로 받는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20Request%20Parameter%EB%A5%BC%20%EA%B0%9D%EC%B2%B4%EB%A1%9C%20%EB%B0%9B%EB%8A%94%20%EB%B2%95.md)
 - [@Query에서 FK로 객체를 찾는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Query%EC%97%90%EC%84%9C%20FK%EB%A1%9C%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EC%B0%BE%EB%8A%94%20%EB%B2%95.md)
 - [상속에서 @Builder 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%83%81%EC%86%8D%EC%97%90%EC%84%9C%20%40Builder%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [Spring Boot에서 UUID 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20UUID%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
-- [요청을 보냈을 때 Filter에서 발생한 Exception 때문에 CORS가 뜰 때 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%9A%94%EC%B2%AD%EC%9D%84%20%EB%B3%B4%EB%83%88%EC%9D%84%20%EB%95%8C%20Filter%EC%97%90%EC%84%9C%20%EB%B0%9C%EC%83%9D%ED%95%9C%20Exception%20%EB%95%8C%EB%AC%B8%EC%97%90%20CORS%EA%B0%80%20%EB%9C%B0%20%EB%95%8C%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
-- [DB에서 값을 가지고 올 때 "loaded object was of wrong class class"가 발생할 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/DB%EC%97%90%EC%84%9C%20%EA%B0%92%EC%9D%84%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%98%AC%20%EB%95%8C%20loaded%20object%20was%20of%20wrong%20class%20class%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%95%A0%20%EB%95%8C.md)
 - [테스트 시 Spring Security 인증할 수 있는 어노테이션](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%8B%9C%20Spring%20Security%20%EC%9D%B8%EC%A6%9D%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.md)
-- [Embedded Redis Slf4j 오류 해결](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Embedded%20Redis%20Slf4j%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
-- [Embedded Redis 사용 시 에러](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Embedded%20Redis%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%97%90%EB%9F%AC.md)
 - [테스트를 제외하고 Spring Build하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%A0%9C%EC%99%B8%ED%95%98%EA%B3%A0%20Spring%20Build%ED%95%98%EB%8A%94%20%EB%B2%95.md)
-- [Querydsl 사용 시 Cannot find symbol 오류 발생](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Querydsl%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20Cannot%20find%20symbol%20%EC%98%A4%EB%A5%98%20%EB%B0%9C%EC%83%9D.md)
-- [Dispatcher Servlet 이전에 발생한 예외 처리](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Dispatcher%20Servlet%20%EC%9D%B4%EC%A0%84%EC%97%90%20%EB%B0%9C%EC%83%9D%ED%95%9C%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.md)
 - [연관관계 편의 메소드](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%ED%8E%B8%EC%9D%98%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
 - [동시성 문제를 제어하는 방법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EB%8F%99%EC%8B%9C%EC%84%B1%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 - [static 변수에 @Value 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/static%20%EB%B3%80%EC%88%98%EC%97%90%20%40Value%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [@Value값이 null로 들어갈 때 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Value%EA%B0%92%EC%9D%B4%20null%EB%A1%9C%20%EB%93%A4%EC%96%B4%EA%B0%88%20%EB%95%8C%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
-- [Bean의 생성 순서를 정하고 싶을 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Bean%EC%9D%98%20%EC%83%9D%EC%84%B1%20%EC%88%9C%EC%84%9C%EB%A5%BC%20%EC%A0%95%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C.md)
 - [Random과 SecureRandom 차이](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Random%EA%B3%BC%20SecureRandom%20%EC%B0%A8%EC%9D%B4.md)
 - [Security에서 Session 정책 설정하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Security%EC%97%90%EC%84%9C%20Session%20%EC%A0%95%EC%B1%85%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
 - [Request Dto에서 @Builder 사용 시 이상한 점](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Request%20Dto%EC%97%90%EC%84%9C%20%40Builder%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EC%A0%90.md)
 - [Properties 또는 Yml에서 기본값 설정하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Properties%20%EB%98%90%EB%8A%94%20Yml%EC%97%90%EC%84%9C%20%EA%B8%B0%EB%B3%B8%EA%B0%92%20%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 - [Jwt Filter가 두 번 호출될 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Jwt%20Filter%EA%B0%80%20%EB%91%90%20%EB%B2%88%20%ED%98%B8%EC%B6%9C%EB%90%A0%20%EB%95%8C.md)
-- [JPA에서 커스텀 delete... 함수를 사용할 때 발생하는 예외 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/JPA%EC%97%90%EC%84%9C%20%EC%BB%A4%EC%8A%A4%ED%85%80%20delete...%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EC%98%88%EC%99%B8%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 - [List안의 값을 Validation 하는 법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/List%EC%95%88%EC%9D%98%20%EA%B0%92%EC%9D%84%20Validation%20%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 - [Spring Bean은 상태를 가져도 되는가](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Bean%EC%9D%80%20%EC%83%81%ED%83%9C%EB%A5%BC%20%EA%B0%80%EC%A0%B8%EB%8F%84%20%EB%90%98%EB%8A%94%EA%B0%80.md)
-- [부모 객체에서 자식 객체를 가져올 때 no Session 에러(parallelStream)](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EB%B6%80%EB%AA%A8%20%EA%B0%9D%EC%B2%B4%EC%97%90%EC%84%9C%20%EC%9E%90%EC%8B%9D%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EA%B0%80%EC%A0%B8%EC%98%AC%20%EB%95%8C%20no%20Session%20%EC%97%90%EB%9F%AC(parallelStream).md)
-- [@Query로 변경, 삭제 메소드를 사용했을 때 발생하는 에러 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Query%EB%A1%9C%20%EB%B3%80%EA%B2%BD%2C%20%EC%82%AD%EC%A0%9C%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%96%88%EC%9D%84%20%EB%95%8C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EC%97%90%EB%9F%AC%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 - [Spring Boot Exception 효율적인 처리방식](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%20Exception%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%8B%9D.md)
 - [Spring boot에서 CORS 설정을 해도 CORS가 뜨는 경우 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20boot%EC%97%90%EC%84%9C%20CORS%20%EC%84%A4%EC%A0%95%EC%9D%84%20%ED%95%B4%EB%8F%84%20CORS%EA%B0%80%20%EB%9C%A8%EB%8A%94%20%EA%B2%BD%EC%9A%B0%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 - [Spring Boot 통합 테스트 설정하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%20%ED%86%B5%ED%95%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
@@ -491,12 +480,25 @@ Study DevOps &amp; Backend
 - [Spring Boot SocketIO 사용하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%20SocketIO%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [일대일 양방향 매핑의 큰 단점](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%9D%BC%EB%8C%80%EC%9D%BC%20%EC%96%91%EB%B0%A9%ED%96%A5%20%EB%A7%A4%ED%95%91%EC%9D%98%20%ED%81%B0%20%EB%8B%A8%EC%A0%90.md)
 - [@PrimaryKeyJoinColumn이란](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40PrimaryKeyJoinColumn%EC%9D%B4%EB%9E%80.md)
-- [Mockito cannot mockspy because - final class 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Mockito%20cannot%20mockspy%20because%20-%20final%20class%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 - [Mockito when에서 파라미터 가져오기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Mockito%20when%EC%97%90%EC%84%9C%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
 - [Spring Boot Admin 구축하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%20Admin%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
 - [Spring Boot에서 DB인덱싱하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Boot%EC%97%90%EC%84%9C%20DB%EC%9D%B8%EB%8D%B1%EC%8B%B1%ED%95%98%EA%B8%B0.md)
 - [@Transactional의 종류](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Transactional%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
 - [Kopring 시작 설정하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Kopring%20%EC%8B%9C%EC%9E%91%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
+
+#### Exception
+
+- [@Query로 변경, 삭제 메소드를 사용했을 때 발생하는 에러 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%40Query%EB%A1%9C%20%EB%B3%80%EA%B2%BD%2C%20%EC%82%AD%EC%A0%9C%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%96%88%EC%9D%84%20%EB%95%8C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EC%97%90%EB%9F%AC%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
+- [Bean의 생성 순서를 정하고 싶을 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Bean%EC%9D%98%20%EC%83%9D%EC%84%B1%20%EC%88%9C%EC%84%9C%EB%A5%BC%20%EC%A0%95%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C.md)
+- [DB에서 값을 가지고 올 때 "loaded object was of wrong class class"가 발생할 때](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/DB%EC%97%90%EC%84%9C%20%EA%B0%92%EC%9D%84%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%98%AC%20%EB%95%8C%20loaded%20object%20was%20of%20wrong%20class%20class%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%95%A0%20%EB%95%8C.md)
+- [Dispatcher Servlet 이전에 발생한 예외 처리](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Dispatcher%20Servlet%20%EC%9D%B4%EC%A0%84%EC%97%90%20%EB%B0%9C%EC%83%9D%ED%95%9C%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.md)
+- [Embedded Redis Slf4j 오류 해결](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Embedded%20Redis%20Slf4j%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
+- [Embedded Redis 사용 시 에러](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Embedded%20Redis%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%97%90%EB%9F%AC.md)
+- [JPA에서 커스텀 delete... 함수를 사용할 때 발생하는 예외 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/JPA%EC%97%90%EC%84%9C%20%EC%BB%A4%EC%8A%A4%ED%85%80%20delete...%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20%EC%98%88%EC%99%B8%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
+- [Mockito cannot mockspy because - final class 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Mockito%20cannot%20mockspy%20because%20-%20final%20class%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
+- [Querydsl 사용 시 Cannot find symbol 오류 발생](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Querydsl%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20Cannot%20find%20symbol%20%EC%98%A4%EB%A5%98%20%EB%B0%9C%EC%83%9D.md)
+- [부모 객체에서 자식 객체를 가져올 때 no Session 에러(parallelStream)](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EB%B6%80%EB%AA%A8%20%EA%B0%9D%EC%B2%B4%EC%97%90%EC%84%9C%20%EC%9E%90%EC%8B%9D%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EA%B0%80%EC%A0%B8%EC%98%AC%20%EB%95%8C%20no%20Session%20%EC%97%90%EB%9F%AC(parallelStream).md)
+- [요청을 보냈을 때 Filter에서 발생한 Exception 때문에 CORS가 뜰 때 해결법](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%EC%9A%94%EC%B2%AD%EC%9D%84%20%EB%B3%B4%EB%83%88%EC%9D%84%20%EB%95%8C%20Filter%EC%97%90%EC%84%9C%20%EB%B0%9C%EC%83%9D%ED%95%9C%20Exception%20%EB%95%8C%EB%AC%B8%EC%97%90%20CORS%EA%B0%80%20%EB%9C%B0%20%EB%95%8C%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)
 
 
 
