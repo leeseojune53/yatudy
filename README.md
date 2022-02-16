@@ -76,6 +76,8 @@ Study DevOps &amp; Backend
 
 - [Library](https://github.com/leeseojune53/yatudy#library-1)
 
+[App](https://github.com/leeseojune53/yatudy#app)
+
 [Books](https://github.com/leeseojune53/yatudy#books)
 
 [Lectures](https://github.com/leeseojune53/yatudy#lectures)
@@ -402,9 +404,12 @@ Study DevOps &amp; Backend
 
 ## Server
 
+- [Proxy란](https://github.com/leeseojune53/yatudy/blob/main/Server/Proxy%EB%9E%80.md)
+
 ### Tips
 
 - [Nginx로 해외 ip 차단하는 법](https://github.com/leeseojune53/yatudy/blob/main/Server/Tips/Nginx%EB%A1%9C%20%ED%95%B4%EC%99%B8%20ip%20%EC%B0%A8%EB%8B%A8%ED%95%98%EB%8A%94%20%EB%B2%95.md)
+- [Nginx로 소켓 Reverse Proxy](https://github.com/leeseojune53/yatudy/blob/main/Server/Tips/Nginx%EB%A1%9C%20%EC%86%8C%EC%BC%93%20reverse_proxy.md)
 
 
 
@@ -492,6 +497,7 @@ Study DevOps &amp; Backend
 - [클래스 상속 시 부모 필드 Builder](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%83%81%EC%86%8D%20%EC%8B%9C%20%EB%B6%80%EB%AA%A8%20%ED%95%84%EB%93%9C%20Builder.md)
 - [JUnit5에서 테스트 순서 정하기](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/JUnit5%EC%97%90%EC%84%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%88%9C%EC%84%9C%20%EC%A0%95%ED%95%98%EA%B8%B0.md)
 - [Spring Unit Test](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/Spring%20Unit%20Test.md)
+- [JPA에서 Modifying사용 시 주의점](https://github.com/leeseojune53/yatudy/blob/main/Spring%20Boot/Tips/JPA%EC%97%90%EC%84%9C%20Modifying%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%A3%BC%EC%9D%98%EC%A0%90.md)
 
 #### Exception
 
@@ -523,6 +529,17 @@ Study DevOps &amp; Backend
 
 - [NestJs 배포 자동화하기](https://github.com/leeseojune53/yatudy/blob/main/NestJS/Tips/NestJs%20%EB%B0%B0%ED%8F%AC%20%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0.md)
 - [NestJs로 Jwt 인증하기](https://github.com/leeseojune53/yatudy/blob/main/NestJS/Tips/NestJs%EB%A1%9C%20Jwt%20%EC%9D%B8%EC%A6%9D%ED%95%98%EA%B8%B0.md)
+- [AdminJS(AdminBro)로 어드민 구축하기](https://github.com/leeseojune53/yatudy/blob/main/NestJS/Tips/AdminJS(AdminBro)%EB%A1%9C%20%EC%96%B4%EB%93%9C%EB%AF%BC%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
+
+
+
+---
+
+
+
+## App
+
+- [MVVM이란?](https://github.com/leeseojune53/yatudy/blob/main/App/MVVM%EC%9D%B4%EB%9E%80.md)
 
 
 
