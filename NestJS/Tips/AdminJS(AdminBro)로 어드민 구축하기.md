@@ -27,6 +27,14 @@ export class User extends BaseEntity {
 
 ### 3️⃣ 세 번째로
 
+App Module 맨 위에 아래 코드를 추가해준다.
+``` typescript
+Resource.validate = validate;
+AdminJS.registerAdapter({ Database, Resource });
+```
+
+### 4️⃣ 네 번째로
+
 App Module에서 TypeORM과 AdminJS 설정을 해준다.
 
 ``` typescript
