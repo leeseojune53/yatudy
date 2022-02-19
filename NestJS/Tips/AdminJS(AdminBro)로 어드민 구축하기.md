@@ -10,7 +10,7 @@ AdminJS는 DB를 웹으로 제어할 수 있는 라이브러리이다. NodeJS �
 
 ### 1️⃣ 첫 번째로
 
-`@adminjs/express @adminjs/nestjs @adminjs/typeorm adminjs express typeorm mysql2 express-formidable express-session`
+`@adminjs/express @adminjs/nestjs @adminjs/typeorm @nestjs/typeorm adminjs express typeorm mysql2 express-formidable express-session class-transformer class-validator dotenv`
 
 위 라이브러리들을 추가해준다.
 
