@@ -29,7 +29,7 @@ public class ExceptionHandlingFilter extends OncePerRequestFilter {
 
 ### 1️⃣ 첫 번째
 
-필터의 예외를 테스트하기 위해서는 `doThorw`를 사용해야한다. 
+필터의 예외를 테스트하기 위해서는 `doThrow`를 사용해야한다. 
 
 request와 response는 값을 가지고 있어야 하기때문에 mocking하는 것 보다 `MockHttpServlet~`를 사용하는 것이 편리하고 좋다.
 
