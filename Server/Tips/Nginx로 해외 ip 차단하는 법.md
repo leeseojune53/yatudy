@@ -9,7 +9,7 @@
 ubuntu 기준으로 `/etc/nginx` 내부에 있는 `nginx.conf` 파일의 http안에 값을 넣어준다.
 
 ```
-geoip_country /usr/share/GeoIP/GeoIP.dat
+geoip_country /usr/share/GeoIP/GeoIP.dat;
 map $geoip_country_code $allowed_country {
 	default no;
 	KR yes;
@@ -40,3 +40,6 @@ server {
 
 if($\~\~)를 하게되면 에러가 발생하는데, 문법상 if ($\~\~)로 해야하기 때문이다.
 
+
+
+만약, `nginx: [emerg] unknown directive "geoip_country"`가 뜬다면 [링크](https://stackoverflow.com/questions/36554405/how-to-enable-dynamic-module-with-an-existing-nginx-installation)를 참고하면된다. 간단하게 동적 모듈이 없어서 발생하는 문제이다.
