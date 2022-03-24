@@ -30,7 +30,7 @@ Swarmpit(Auto Deploy) 기능은 새로운 이미지가 들어왔을 때(Update X
 ECR(*Elastic Container Registry*)에서 저장소(Repository)를 생성한다. Private 저장소를 **권장**한다.
 
 ### 2️⃣ 두 번째로
-EC2의 역할에 **AWSLambda_FullAccess, AmazoneEC2ReadOnlyAccess, AmazoneSSMFullAccess**를 넣어준다.
+EC2의 역할에 **AmazonSSMManagedInstanceCore**를 넣어준다.
 
 ### 3️⃣ 세 번째로
 
