@@ -30,12 +30,15 @@ Swarmpit(Auto Deploy) 기능은 새로운 이미지가 들어왔을 때(Update X
 ECR(*Elastic Container Registry*)에서 저장소(Repository)를 생성한다. Private 저장소를 **권장**한다.
 
 ### 2️⃣ 두 번째로
+EC2의 역할에 **AWSLambda_FullAccess, AmazoneEC2ReadOnlyAccess, AmazoneSSMFullAccess**를 넣어준다.
 
-*이 글에서는 Python 3.9를 기준으로 작성되었습니다. 또한 Docker Swarm을 사용하고 있습니다.*
+### 3️⃣ 세 번째로
+
+*이 글에서는 Python 3.9를 기준으로 작성되었습니다. 또한 Docker Swarm을 사용하고 있다.*
 
 Lambda로 이동한다.
 
-Lambda의 IAM 역할에 **AWSLambda_FullAccess, AmazoneEC2ReadOnlyAccess, AmazoneSSMFullAccess**를 넣어줍니다.
+Lambda의 IAM 역할에 **AWSLambda_FullAccess, AmazoneEC2ReadOnlyAccess, AmazoneSSMFullAccess**를 넣어준다.
 
 이 단계의 핵심은 EventBridge에서 전달받을 **Event에서 필요한 데이터를 가져**오고, 그것을 통해 인스턴스에 **SSM**(*AWS Systems Manager*)을 활용해서 **Docker image를 업데이트** 시키는 것이다.
 
@@ -63,7 +66,7 @@ ssm.send_command(
 
 
 
-### 3️⃣ 세 번째로
+### 4️⃣ 네 번째로
 
 위에서 저장소를 생성했다면 Amazone EventBridge로 이동한다.
 
