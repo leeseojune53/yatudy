@@ -390,6 +390,7 @@ Study DevOps &amp; Backend
 ## DevOps
 
 - [데브옵스란 무엇인가](https://github.com/leeseojune53/yatudy/blob/main/DevOps/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
+- [SRE란 무엇인가](https://github.com/leeseojune53/yatudy/blob/main/DevOps/SRE%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
 
 ### ELK
 
