@@ -25,7 +25,7 @@ input {
                 jdbc_paging_enabled => true															# 데이터 조회 시 페이징 처리 여부
                 tracking_column => "unix_ts_in_secs"												# 추적할 컬럼
                 use_column_value => true															# update기준을 컬럼값으로 여부
-                tracking_column_type => "timestamp"													# 추적하는 컬럼의 자료형
+                tracking_column_type => "numeric"													# 추적하는 컬럼의 자료형
                 statement => "SELECT id, title, UNIX_TIMESTAMP(updated_at) AS unix_ts_in_secs FROM video WHERE (UNIX_TIMESTAMP(updated_at) > :sql_last_value AND updated_at < NOW()) ORDER BY updated_at ASC"
                 schedule => "*/1 * * * *"
                 last_run_metadata_path => "/usr/share/logstash/.logstash_jdbc_video_last_run"		# metadata 저장 위치
