@@ -62,3 +62,7 @@ Mysql Connector 다운로드
 ` tar -zxvf mysql-connector-java-{version}.tar.gz`
 
 폴더 내의 mysql-connector.jar 파일을 docker-compose의 docker volume로 공유한다.
+
+### 3️⃣ 세 번째로
+
+elastic search에 인덱스를 설정하면 된다. 기존에 인덱스가 존재한다면 삭제해야한다.
