@@ -18,7 +18,7 @@ https://github.com/settings/tokens
 
 파일에 해당 토큰을 저장하고, 
 
-`cat {FILE_NAME} | docker login ghcrcr.io -u leeseojune53 --password-stdin`
+`cat {FILE_NAME} | docker login ghcr.io -u leeseojune53 --password-stdin`
 
 를 사용하면 `Login Succeeded`가 출력될 것이다.
 
