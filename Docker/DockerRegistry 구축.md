@@ -6,7 +6,7 @@
 
 SSL은 발급하지 않으며 cloudflare를 이용한다.
 
-**Ubuntu 20.04, Docker, Docker-compose, nginx** 환경에서 구축한 글입니다.
+**Ubuntu 20.04, Docker, Docker-compose, nginx** 환경에서 구축한 글이다.
 
 ### 1️⃣ 첫 번째
 
