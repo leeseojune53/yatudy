@@ -214,7 +214,6 @@ Study DevOps &amp; Backend
 ### Tips
 
 - [Docker에 Nginx 띄우기](https://github.com/leeseojune53/yatudy/blob/main/Docker/Tips/Docker%EC%97%90%20Nginx%20%EB%9D%84%EC%9A%B0%EA%B8%B0.md)
-- [Docker Registry 만들기](https://github.com/leeseojune53/yatudy/blob/main/Docker/Tips/Docker%20Registry%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 - [Portainer 사용법](https://github.com/leeseojune53/yatudy/blob/main/Docker/Tips/Portainer%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
 
 
