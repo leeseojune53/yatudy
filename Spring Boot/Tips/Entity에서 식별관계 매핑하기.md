@@ -15,7 +15,7 @@
 ```java
 class Score {
     @Id
-    private Long id; 				//User의 PK
+    private Long userId; 				//User의 PK
     
     @MapsId
     @OneToOne
