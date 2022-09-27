@@ -128,3 +128,5 @@ Spring Security를 같이 사용한다면, permitAll 설정을 해줘야하는 �
 ### 마지막으로..
 
 Spring doc의 default ui path는 `BASE_PATH/swagger-ui/index.html` 이다.
+
+또, 이 글에 없는 부분은 [공식문서](https://springdoc.org/#Introduction)를 참조하면 된다.
