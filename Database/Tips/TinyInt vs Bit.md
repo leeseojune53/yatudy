@@ -19,4 +19,4 @@
 
 MySQL에서 BOOL type은 TINYINT(1)을 지칭하는 말과 같다.
 
-또, TINYINT는 BIT와 대조적으로 Bitmask를 사용할 수 있다.
+또, TINYINT는 BIT와 대조적으로 8-bit Bitmask를 안정적 사용할 수 있다. (BIT는 다른 BIT컬럼이 온다면 영향을 받을 수 있음.)
