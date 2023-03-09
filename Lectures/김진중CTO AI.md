@@ -4,13 +4,13 @@
 
 AI의 뜻은 사람마다 생각하고있는게 다르다.
 
-AI는 Ai가 지금 하지 못하는 것을 하게하는 것이다. 라고 이야기하심.
+김진중 CTOAI는 AI가 지금 하지 못하는 것을 하게하는 것이다. 라고 이야기하심.
 
 ### Rule-base AI Vs Machine Learning
 
-Rule-base AI : 길고 노랗고 약간 휘었다.
+Rule-base AI : (바나나는) 길고 노랗고 약간 휘었다.
 
-Machine Learning : 바나나 이미지를 넣어줌. 기계가 알아냄.
+Machine Learning : 바나나 이미지를 많이 넣어줌. 기계가 알아냄.
 
 Rule-base AI는 다른 특징을 하려면 인간이 분석해서 더 넣어줘야함. 머신러닝은 기계가 알아서 해줌.
 
@@ -104,13 +104,13 @@ Negative Prompt도 있다. (이렇게 만들지 마라)
 
 GPT-3
 
-한 줄씩 데이터를 주는 것이 One-shot, 여러 줄 주는 것이 Few-shot이다.
+- 한 줄씩 데이터를 주는 것이 One-shot, 여러 줄 주는 것이 Few-shot이다.
 
-아무 데이터도 주지 않는 것은 Zero-shot인데 빅 모델에서는 된다. 하지만, 정확한 대답이 나올 확률은 조금 낮다.
+- 아무 데이터도 주지 않는 것은 Zero-shot인데 빅 모델에서는 된다. 하지만, 정확한 대답이 나올 확률은 조금 낮다.
 
-Chain of Thought는 A는 A다, B는 무엇일까 와 같은 방식이다.
+- Chain of Thought(CoT)는 A는 A다, B는 무엇일까 와 같은 방식이다.
 
-Zero shot Chain of Thought
+- Zero shot Chain of Thought
 
 
 
