@@ -34,6 +34,15 @@
         "doc",
         "bug"
       ]
+    },
+    {
+      "login": "jhhong0509",
+      "name": "홍정현",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57659252?v=4",
+      "profile": "https://github.com/jhhong0509",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
