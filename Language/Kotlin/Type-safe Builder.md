@@ -2,9 +2,9 @@
 
 ### 1. Type-safe Builder란?
 
-Kotlin에서 함수를 이용해서 빌더같은 깔끔한 코드를 작성할 수 있는 기능
+Kotlin에서 함수를 이용해서 빌더같은 깔끔한 코드를 작성할 수 있는 기능이다.
 
-Kotlin DSLs(Domain Specific Languages)라고도 불린다.
+Kotlin DSL을 활용하는 방법중 대표적인게 Type-safe builder이다.
 
 ### 2. 어떻게 만드나?
 
