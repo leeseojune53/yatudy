@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Yoochanhong",
+      "name": "유찬홍",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102807101?v=4",
+      "profile": "https://chanhongweb.web.app",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "yatudy",
+  "projectOwner": "leeseojune53"
+}
