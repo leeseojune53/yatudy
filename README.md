@@ -1,9 +1,35 @@
 # yatudy
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 Study DevOps &amp; Backend
 
-부족한 부분 또는 오타 발견시 언제든 PR날려주세요. 👋👋
+## 기여 방법
 
-글 작성 시에는 [규칙](https://github.com/leeseojune53/yatudy/blob/main/Rule.md)에 따라 작성 부탁드립니다😀
+부족한 부분 또는 오타 발견시 언제든 PR날려주세요. 👋👋
+기여시에는 [규칙](https://github.com/leeseojune53/yatudy/blob/main/Rule.md)에 따라 작성 부탁드립니다😀
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://chanhongweb.web.app"><img src="https://avatars.githubusercontent.com/u/102807101?v=4?s=100" width="100px;" alt="유찬홍"/><br /><sub><b>유찬홍</b></sub></a><br /><a href="https://github.com/leeseojune53/yatudy/issues?q=author%3AYoochanhong" title="Bug reports">🐛</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ---
 
