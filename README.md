@@ -1,6 +1,6 @@
 # yatudy
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Study DevOps &amp; Backend
 
@@ -20,6 +20,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://chanhongweb.web.app"><img src="https://avatars.githubusercontent.com/u/102807101?v=4?s=100" width="100px;" alt="유찬홍"/><br /><sub><b>유찬홍</b></sub></a><br /><a href="https://github.com/leeseojune53/yatudy/issues?q=author%3AYoochanhong" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/softpeanut"><img src="https://avatars.githubusercontent.com/u/80632060?v=4?s=100" width="100px;" alt="Kim Beom Jin"/><br /><sub><b>Kim Beom Jin</b></sub></a><br /><a href="https://github.com/leeseojune53/yatudy/issues?q=author%3Asoftpeanut" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
