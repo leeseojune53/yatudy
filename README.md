@@ -7,7 +7,9 @@ Study DevOps &amp; Backend
 ## 기여 방법
 
 부족한 부분 또는 오타 발견시 언제든 PR날려주세요. 👋👋
+
 기여시에는 [규칙](https://github.com/leeseojune53/yatudy/blob/main/Rule.md)에 따라 작성 부탁드립니다😀
+
 또, 관련해서 **있었으면 하는 글이 있다면 이슈로** 남겨주셔도 됩니다! (PR도 환영합니다 ❤️)
 
 ## Contributors ✨
