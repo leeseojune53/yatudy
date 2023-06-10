@@ -1,9 +1,41 @@
 # yatudy
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 Study DevOps &amp; Backend
+
+## 기여 방법
 
 부족한 부분 또는 오타 발견시 언제든 PR날려주세요. 👋👋
 
-글 작성 시에는 [규칙](https://github.com/leeseojune53/yatudy/blob/main/Rule.md)에 따라 작성 부탁드립니다😀
+기여시에는 [규칙](https://github.com/leeseojune53/yatudy/blob/main/Rule.md)에 따라 작성 부탁드립니다😀
+
+또, 관련해서 **있었으면 하는 글이 있다면 이슈로** 남겨주셔도 됩니다! (PR도 환영합니다 ❤️)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://chanhongweb.web.app"><img src="https://avatars.githubusercontent.com/u/102807101?v=4?s=100" width="100px;" alt="유찬홍"/><br /><sub><b>유찬홍</b></sub></a><br /><a href="https://github.com/leeseojune53/yatudy/issues?q=author%3AYoochanhong" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/softpeanut"><img src="https://avatars.githubusercontent.com/u/80632060?v=4?s=100" width="100px;" alt="Kim Beom Jin"/><br /><sub><b>Kim Beom Jin</b></sub></a><br /><a href="https://github.com/leeseojune53/yatudy/issues?q=author%3Asoftpeanut" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/oajh04"><img src="https://avatars.githubusercontent.com/u/67260242?v=4?s=100" width="100px;" alt="Hanjunho"/><br /><sub><b>Hanjunho</b></sub></a><br /><a href="https://github.com/leeseojune53/yatudy/commits?author=oajh04" title="Documentation">📖</a> <a href="https://github.com/leeseojune53/yatudy/issues?q=author%3Aoajh04" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jhhong0509"><img src="https://avatars.githubusercontent.com/u/57659252?v=4?s=100" width="100px;" alt="홍정현"/><br /><sub><b>홍정현</b></sub></a><br /><a href="https://github.com/leeseojune53/yatudy/pulls?q=is%3Apr+reviewed-by%3Ajhhong0509" title="Reviewed Pull Requests">👀</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ---
 

@@ -1,0 +1,54 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Yoochanhong",
+      "name": "유찬홍",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102807101?v=4",
+      "profile": "https://chanhongweb.web.app",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "softpeanut",
+      "name": "Kim Beom Jin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80632060?v=4",
+      "profile": "https://github.com/softpeanut",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "oajh04",
+      "name": "Hanjunho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67260242?v=4",
+      "profile": "https://github.com/oajh04",
+      "contributions": [
+        "doc",
+        "bug"
+      ]
+    },
+    {
+      "login": "jhhong0509",
+      "name": "홍정현",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57659252?v=4",
+      "profile": "https://github.com/jhhong0509",
+      "contributions": [
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "yatudy",
+  "projectOwner": "leeseojune53"
+}
