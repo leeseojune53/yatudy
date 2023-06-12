@@ -12,6 +12,7 @@
 
 - CPU : M1 PRO
 - RAM : 16GB
+- DB : Mysql, Local Docker environment
 - Repo : https://github.com/leeseojune53/TIL/tree/master/BackEnd_Learn/Java/saveall-vs-batch
 
 | 개수  | saveAll(초)          | batchUpdate(초)      |
