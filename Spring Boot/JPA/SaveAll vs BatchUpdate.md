@@ -8,6 +8,10 @@
 
 항상 새로운 데이터를 비교할 필요없이 INSERT하면 되었기에 batchUpdate를 사용하였고, 비즈니스 안정성과 성능 둘 다 잡게되어 글을 통해 공유한다.
 
+### BatchUpdate?
+
+BatchUpdate는 JDBC에서 제공하는 Batch query를 날리는 method이다.
+
 ### SaveAll vs BatchUpdate 성능
 
 - CPU : M1 PRO
