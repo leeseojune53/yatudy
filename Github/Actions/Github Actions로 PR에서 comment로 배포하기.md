@@ -72,7 +72,7 @@ fi
 
 해당 step을 id로 지정하는 이유는 After-Deploy Comment에서 새로 Comment를 다는 것이 아니라, 이번 step에서 생성하는 comment를 수정하기때문에 지정한다.
 
-ps. Comment에 현재 진행상황을 업데이트하고싶지만,
+ps. Comment에 현재 진행상황을 업데이트하고싶지만, Comment에 linux의 progress bar같은걸 넣을 수 없어서 포기하였다.
 
 ```yaml
 name: Add Pre-Deploy comment
@@ -90,5 +90,64 @@ with:
       body: 'SpecificRepo Deploying... \n ![Deploy Progress](https://raw.githubusercontent.com/jaranda-arthur/storage/main/default.gif)'
       });
       return JSON.stringify(response.data.id);
+```
+
+### Deploy
+
+Deploy step에서는 Build하고, 특정 URL로 배포하는 sh / gradle을 실행한다. 필자는 GCP AppEngine의 버전 배포 시스템을 활용해 진행하였다.
+
+```yaml
+- name: deploy
+	if: |
+		steps.changed.outputs.changed == 'true'
+	run: |
+		cd root_dir/specific_repo/
+		chmod +x gradlew
+		export VERSION=dev-pr-${{ github.event.issue.number }}
+		[URL 배포하는 로직]
+
+```
+
+### Success Comment
+
+성공 시 Comment를 Env에 저장한다.
+
+```yaml
+- name: Success Comment
+	if: success() && steps.changed.outputs.changed == 'true'
+  run: |
+  echo "Deploy passed!"
+ 	echo "COMMENT=🚀 JApi : https://dev-pr-${{ github.event.issue.number }}-URL" >> $GITHUB_ENV
+```
+
+### Fail Comment
+
+실페 시 Comment를 Env에 저장한다.
+
+```yaml
+- name: Fail Comment Set
+	if: failure() && steps.changed.outputs.changed == 'true'
+  run: |
+  	echo "Deploy failed!"
+  	echo "COMMENT=specific_repo Deploy failed! 💥" >> $GITHUB_ENV
+```
+
+### Deployed Comment
+
+위의 Pre-Deploy Comment Step에서 생성한 Comment를 위에서 설정한 COMMENT Env로 내용을 수정하는 Step이다.
+
+```yaml
+- name: Add Deploy comment
+	if: always() && env.COMMENT != ''
+  uses: actions/github-script@v5
+  with:
+  	github-token: ${{secrets.GITHUB_TOKEN}}
+    script: |
+    	github.rest.issues.updateComment({
+      	comment_id: ${{ steps.comment.outputs.result }},
+      	owner: context.repo.owner,
+      	repo: context.repo.repo,
+      	body: '${{ env.COMMENT }}'
+      })
 ```
 
