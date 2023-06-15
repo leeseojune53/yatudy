@@ -1,0 +1,17 @@
+
+
+회사에서 코드를 작성하다 쿼리 결과의 일부 구조 자체를 수정해야하는 상황이 생겨서 QueryDSL의 `transform`을 사용하였다.
+
+해당 코드가 개발 환경에 배포된 이후 Java Application의 속도가 느려지다 멈추는 현상이 발생하였다. 약 4건이 해당 시간대에 개발 환경에 배포되어서 다 찾아봤는데 따로 의심가는 코드가 없었다.
+
+HikariCP Leak을 검색하니 Querydsl의 transform이 Connection leak을 발생시킨다는 아티클이 있어서 조금 더 파보았고, 실제로 해당 method 상단에 @Transactional 어노테이션을 붙이니 문제가 해결되었다.
+
+
+
+---
+
+몇일 후 조금 더 DeepDive하려고 `@Transactional`을 제거하고 10(Connection Pool size)번 호출 하였는데, Application이 멈추지 않았다.
+
+약 2일간 변경된 파일은 180개였는데, 관련있어보이는 파일들을 찾아보다 application 설정에 OSIV(open-in-view property)가 false로 설정되었던게 삭제(기본값 true)로 변경된 것이었다.
+
+OSIV가 켜짐으로써 Persistence Context의 생존 범위가 Dispatcher Servlet까지 늘어나게 되는데, OSIV가 없었을 때는 Service layer를 벗어나도 Connection관련 Spring Boot가 건드리지 않았는데, OSIV가 켜지면서 Dispatcher Servlet에서 빠져나갈 때 Connection을 정리한다는 가설.
