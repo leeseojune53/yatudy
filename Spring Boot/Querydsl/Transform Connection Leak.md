@@ -15,3 +15,9 @@ HikariCP Leak을 검색하니 Querydsl의 transform이 Connection leak을 발생
 약 2일간 변경된 파일은 180개였는데, 관련있어보이는 파일들을 찾아보다 application 설정에 OSIV(open-in-view property)가 false로 설정되었던게 삭제(기본값 true)로 변경된 것이었다.
 
 OSIV가 켜짐으로써 Persistence Context의 생존 범위가 Dispatcher Servlet까지 늘어나게 되는데, OSIV가 없었을 때는 Service layer를 벗어나도 Connection관련 Spring Boot가 건드리지 않았는데, OSIV가 켜지면서 Dispatcher Servlet에서 빠져나갈 때 Connection을 정리한다는 가설.
+
+`OpenEntityManagerInViewInterceptor`의 `afterCompletion`함수에 EntityManager를 close하는 부분이 있다.
+
+EntityManager가 Close되면서 Connection을 정리해준다면, 위에서 생각한 가설이 맞게된다.
+
+![image-20230617232956326](/Users/leeseojune/Library/Application Support/typora-user-images/image-20230617232956326.png)
