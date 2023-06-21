@@ -10,9 +10,7 @@
 
 HikariCP Leak을 검색하니 Querydsl의 transform이 Connection leak을 발생시킨다는 아티클이 있어서 조금 더 파보았고, 실제로 해당 method 상단에 @Transactional 어노테이션을 붙이니 문제가 해결되었다.
 
-
-
----
+### OSIV의 영향?
 
 몇일 후 조금 더 DeepDive하려고 `@Transactional`을 제거하고 10(Connection Pool size)번 호출 하였는데, Application이 멈추지 않았다.
 
@@ -28,6 +26,8 @@ OSIV가 켜짐으로써 Persistence Context의 생존 범위가 Dispatcher Servl
 
 해당 함수의 Javadoc에는 아래와 같이 적혀있다.
 
-`Close this coordinator and release and resources.`
-
 ![스크린샷 2023-06-19 오후 10.27.59](/Users/leeseojune/Library/Application Support/typora-user-images/스크린샷 2023-06-19 오후 10.27.59.png)
+
+`Close this coordinator and release and resources.` (해당 코디네이터를 닫고, 릴리즈 리소스를 닫는다.)
+
+따라서 OSIV를 키면 EntityManager를 close하는 과정에서 DB Connection도 release되는 사이드이펙트로 transform의 Connection leak이 발생하지 않는다.
