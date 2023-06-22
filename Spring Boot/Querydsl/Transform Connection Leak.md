@@ -20,13 +20,13 @@ OSIV가 켜짐으로써 Persistence Context의 생존 범위가 Dispatcher Servl
 
 `OpenEntityManagerInViewInterceptor`의 `afterCompletion`함수에 EntityManager를 close하는 부분이 있다.
 
-![image-20230617232956326](/Users/leeseojune/Library/Application Support/typora-user-images/image-20230617232956326.png)
+![querydsl-leak-1.png](https://github.com/leeseojune53/yatudy/blob/main/images/querydsl-leak-1.png?raw=true)
 
 또, `closeEntityManager`를 5단계 정도 타고 들어가면 `AbstractSharedSessionContract`라는 class가 있다. 여기서 `close()`라는 함수에서 jdbcCoordinator를 Close한다.
 
 해당 함수의 Javadoc에는 아래와 같이 적혀있다.
 
-![스크린샷 2023-06-19 오후 10.27.59](/Users/leeseojune/Library/Application Support/typora-user-images/스크린샷 2023-06-19 오후 10.27.59.png)
+![querydsl-leak-2.png](https://github.com/leeseojune53/yatudy/blob/main/images/querydsl-leak-2.png?raw=true)
 
 `Close this coordinator and release and resources.` (해당 코디네이터를 닫고, 릴리즈 리소스를 닫는다.)
 
