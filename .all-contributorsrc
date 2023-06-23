@@ -43,6 +43,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "pokabook",
+      "name": "김현석",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103029701?v=4",
+      "profile": "https://github.com/pokabook",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
