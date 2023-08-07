@@ -8,6 +8,8 @@
 
 
 
-GraalVM은 JIT Compiler와 AoT Compiler를 사용할 수 있다.
+GraalVM은 컴파일 모드(Compiler Operating Mode)로 JIT Compiler와 AoT Compiler를 사용할 수 있다.
+
+기본적으로 AoT(libgraal)를 사용하며, Command Line에 `-XX:-UseJVMCINativeLibrary`를 사용해서 JIT(jargraal)을 적용할 수 있다.
 
 클라우드 환경에서 AoT(Ahead-of-Time)를 활용해서 Warm-Up 시간을 줄일 수 있다.
